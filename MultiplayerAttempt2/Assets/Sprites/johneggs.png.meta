@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 607f65f00cd41ef4ea98e323e084f710
+timeCreated: 1462707761
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: johneggs_0
+    21300002: johneggs_1
+    21300004: johneggs_2
+    21300006: johneggs_3
+    21300008: johneggs_4
+    21300010: johneggs_5
+    21300012: johneggs_6
+    21300014: johneggs_7
+    21300016: johneggs_8
+    21300018: johneggs_9
+    21300020: johneggs_10
+    21300022: johneggs_11
+    21300024: johneggs_12
+    21300026: johneggs_13
+    21300028: johneggs_14
+    21300030: johneggs_15
+    21300032: johneggs_16
+    21300034: johneggs_17
+    21300036: johneggs_18
+    21300038: johneggs_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: johneggs_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 943
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 88}
+        - {x: 69, y: 112}
+        - {x: -19, y: 112}
+        - {x: -49, y: 107}
+        - {x: -77, y: 71}
+        - {x: -83, y: -44}
+        - {x: -83, y: -112}
+        - {x: -23, y: -112}
+        - {x: 5, y: -105}
+        - {x: 70, y: -102}
+        - {x: 73, y: -42}
+        - {x: 83, y: 6}
+    - name: johneggs_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 946
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 112}
+        - {x: -73, y: 100}
+        - {x: -73, y: -10}
+        - {x: -65, y: -59}
+        - {x: -56, y: -109}
+        - {x: -52, y: -112}
+        - {x: 9, y: -112}
+        - {x: 73, y: -102}
+        - {x: 73, y: 112}
+    - name: johneggs_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 944
+        width: 317
+        height: 216
+      alignment: 9
+      pivot: {x: 0.7646209, y: 0.47759444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.38483, y: 112.8396}
+        - {x: -80.38483, y: 69.8396}
+        - {x: -198.38483, y: -6.1604004}
+        - {x: -228.38483, y: -40.1604}
+        - {x: -242.38483, y: -62.1604}
+        - {x: -242.38483, y: -92.1604}
+        - {x: -237.38483, y: -103.1604}
+        - {x: -183.38483, y: -103.1604}
+        - {x: -181.38483, y: -99.1604}
+        - {x: -180.38483, y: -96.1604}
+        - {x: -151.38483, y: -103.1604}
+        - {x: 74.61517, y: -103.1604}
+        - {x: 74.61517, y: 91.8396}
+        - {x: 64.61517, y: 112.8396}
+    - name: johneggs_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 905
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.7033404, y: 0.45809925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.39502, y: 125.17908}
+        - {x: -167.39502, y: 123.17908}
+        - {x: -167.39502, y: 48.179077}
+        - {x: -159.39502, y: 44.179077}
+        - {x: -86.39502, y: -32.820923}
+        - {x: -99.39502, y: -105.82092}
+        - {x: 70.60498, y: -105.82092}
+        - {x: 70.60498, y: 125.17908}
+    - name: johneggs_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 907
+        width: 299
+        height: 221
+      alignment: 9
+      pivot: {x: 0.35972407, y: 0.485401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.442505, y: 46.72638}
+        - {x: 41.442505, y: 113.72638}
+        - {x: -37.557495, y: 113.72638}
+        - {x: -83.557495, y: 107.72638}
+        - {x: -107.557495, y: -54.27362}
+        - {x: -107.557495, y: -107.27362}
+        - {x: 191.4425, y: -107.27362}
+        - {x: 191.4425, y: 30.72638}
+        - {x: 140.4425, y: 50.72638}
+    - name: johneggs_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 624
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -88}
+        - {x: 55, y: -38}
+        - {x: 73, y: 4}
+        - {x: 73, y: 101}
+        - {x: 61, y: 114}
+        - {x: -21, y: 114}
+        - {x: -58, y: 108}
+        - {x: -73, y: 85}
+        - {x: -73, y: -30}
+        - {x: -68, y: -101}
+        - {x: -41, y: -114}
+        - {x: -16, y: -114}
+        - {x: -14, y: -111}
+        - {x: -15, y: -105}
+        - {x: 20, y: -93}
+    - name: johneggs_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 630
+        width: 173
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 106}
+        - {x: -86.5, y: 69}
+        - {x: -86.5, y: -106}
+        - {x: 74.5, y: -106}
+        - {x: 86.5, y: -93}
+        - {x: 86.5, y: 84}
+        - {x: 61.5, y: 106}
+    - name: johneggs_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 631
+        width: 146
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 111}
+        - {x: -29, y: 104}
+        - {x: -58, y: 105}
+        - {x: -73, y: 85}
+        - {x: -73, y: -42}
+        - {x: -67, y: -111}
+        - {x: 41, y: -111}
+        - {x: 73, y: -50}
+        - {x: 73, y: 84}
+        - {x: 55, y: 111}
+    - name: johneggs_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 642
+        width: 305
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3413274, y: 0.46265808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 194.89514, y: -34.934143}
+        - {x: 161.89514, y: -15.934143}
+        - {x: 90.89514, y: 21.065857}
+        - {x: 60.89514, y: 116.06586}
+        - {x: -51.10486, y: 116.06586}
+        - {x: -102.10486, y: 89.06586}
+        - {x: -104.10486, y: 68.06586}
+        - {x: -104.10486, y: -99.93414}
+        - {x: 192.89514, y: -99.93414}
+        - {x: 200.89514, y: -94.93414}
+        - {x: 200.89514, y: -51.934143}
+    - name: johneggs_9
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 642
+        width: 152
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 88}
+        - {x: 51, y: 113}
+        - {x: -42, y: 113}
+        - {x: -69, y: 107}
+        - {x: -76, y: 87}
+        - {x: -76, y: -113}
+        - {x: 32, y: -113}
+        - {x: 35, y: -105}
+        - {x: 70, y: 10}
+        - {x: 76, y: 38}
+    - name: johneggs_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 368
+        width: 317
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.5, y: 90}
+        - {x: 147.5, y: 116}
+        - {x: 16.5, y: 116}
+        - {x: -47.5, y: -7}
+        - {x: -105.5, y: 9}
+        - {x: -153.5, y: -36}
+        - {x: -158.5, y: -45}
+        - {x: -158.5, y: -69}
+        - {x: -16.5, y: -116}
+        - {x: 109.5, y: -116}
+        - {x: 147.5, y: -62}
+        - {x: 158.5, y: 36}
+    - name: johneggs_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 361
+        width: 319
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 113}
+        - {x: -20.5, y: 16}
+        - {x: -159.5, y: -26}
+        - {x: -159.5, y: -48}
+        - {x: -69.5, y: -84}
+        - {x: 21.5, y: -46}
+        - {x: 17.5, y: -113}
+        - {x: 128.5, y: -113}
+        - {x: 159.5, y: -21}
+        - {x: 159.5, y: 98}
+        - {x: 155.5, y: 113}
+      - - {x: 137.5, y: -26}
+        - {x: 137.5, y: -30}
+        - {x: 148.5, y: -30}
+        - {x: 159.5, y: -28}
+        - {x: 159.5, y: -16}
+        - {x: 149.5, y: -20}
+    - name: johneggs_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 362
+        width: 324
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 118.5}
+        - {x: -31, y: 25.5}
+        - {x: -162, y: -5.5}
+        - {x: -162, y: -46.5}
+        - {x: 4, y: -54.5}
+        - {x: -12, y: -118.5}
+        - {x: 162, y: -118.5}
+        - {x: 162, y: 109.5}
+        - {x: 146, y: 118.5}
+      - - {x: -162, y: 65.5}
+        - {x: -162, y: 3.5}
+        - {x: -140, y: 3.5}
+        - {x: -140, y: 65.5}
+    - name: johneggs_13
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 385
+        width: 254
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 118.5}
+        - {x: -38, y: 118.5}
+        - {x: -72, y: -46.5}
+        - {x: -127, y: -71.5}
+        - {x: -127, y: -90.5}
+        - {x: -43, y: -118.5}
+        - {x: 114, y: -118.5}
+        - {x: 127, y: -35.5}
+        - {x: 127, y: 98.5}
+    - name: johneggs_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 21
+        width: 146
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 111}
+        - {x: -73, y: 103}
+        - {x: -73, y: -75}
+        - {x: -65, y: -111}
+        - {x: 57, y: -111}
+        - {x: 73, y: -88}
+        - {x: 73, y: 88}
+        - {x: 64, y: 111}
+    - name: johneggs_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 20
+        width: 173
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 106}
+        - {x: -60.5, y: 100}
+        - {x: -86.5, y: 72}
+        - {x: -86.5, y: -9}
+        - {x: -67.5, y: -106}
+        - {x: 86.5, y: -106}
+        - {x: 86.5, y: 0}
+        - {x: 69.5, y: 94}
+        - {x: 33.5, y: 106}
+    - name: johneggs_16
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 14
+        width: 146
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 96}
+        - {x: 69, y: 114}
+        - {x: -45, y: 114}
+        - {x: -47, y: 108}
+        - {x: -73, y: 80}
+        - {x: -73, y: 50}
+        - {x: -71, y: 33}
+        - {x: -68, y: 14}
+        - {x: -38, y: -87}
+        - {x: 8, y: -114}
+        - {x: 49, y: -114}
+        - {x: 62, y: -96}
+        - {x: 63, y: -81}
+        - {x: 73, y: -25}
+    - name: johneggs_17
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 36
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 78}
+        - {x: -73, y: 48}
+        - {x: -71, y: 31}
+        - {x: -66, y: 13}
+        - {x: -62, y: 9}
+        - {x: -35, y: -104}
+        - {x: -24, y: -112}
+        - {x: 68, y: -112}
+        - {x: 73, y: -95}
+        - {x: 73, y: 102}
+        - {x: 65, y: 112}
+        - {x: -45, y: 112}
+        - {x: -47, y: 106}
+    - name: johneggs_18
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 33
+        width: 166
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 112}
+        - {x: -57, y: 106}
+        - {x: -83, y: 78}
+        - {x: -83, y: 48}
+        - {x: -81, y: 31}
+        - {x: -76, y: 13}
+        - {x: -72, y: 9}
+        - {x: -46, y: -11}
+        - {x: -65, y: -48}
+        - {x: -61, y: -85}
+        - {x: -43, y: -103}
+        - {x: -18, y: -97}
+        - {x: 67, y: -112}
+        - {x: 83, y: -112}
+        - {x: 83, y: 112}
+    - name: johneggs_19
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 34
+        width: 152
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 109}
+        - {x: 49, y: 113}
+        - {x: -58, y: 113}
+        - {x: -76, y: 100}
+        - {x: -76, y: 23}
+        - {x: -65, y: -1}
+        - {x: -36, y: -113}
+        - {x: 48, y: -113}
+        - {x: 66, y: -106}
+        - {x: 76, y: -41}
+        - {x: 76, y: 85}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 3e31f07c079a9f843abb1f10b92b1ec6
+timeCreated: 1462707787
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: johnswingleft_0
+    21300002: johnswingleft_1
+    21300004: johnswingleft_2
+    21300006: johnswingleft_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: johnswingleft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 299
+        height: 221
+      alignment: 9
+      pivot: {x: 0.61748165, y: 0.4877732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.627014, y: 113.20212}
+        - {x: -184.62701, y: 18.202118}
+        - {x: -184.62701, y: -14.797882}
+        - {x: -170.62701, y: -39.797882}
+        - {x: -142.62701, y: -45.797882}
+        - {x: -43.627014, y: -58.797882}
+        - {x: -44.627014, y: -107.79788}
+        - {x: 114.372986, y: -107.79788}
+        - {x: 114.372986, y: -51.797882}
+        - {x: 91.372986, y: 81.20212}
+        - {x: 65.372986, y: 111.20212}
+        - {x: 31.372986, y: 113.20212}
+    - name: johnswingleft_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 263
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.30699426, y: 0.4707565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164.93536, y: 115.25525}
+        - {x: 149.93536, y: 122.25525}
+        - {x: 114.93536, y: 122.25525}
+        - {x: 103.93536, y: 120.25525}
+        - {x: -50.064636, y: 122.25525}
+        - {x: -73.06464, y: 106.25525}
+        - {x: -73.06464, y: -108.74475}
+        - {x: 96.93536, y: -108.74475}
+        - {x: 98.93536, y: -106.74475}
+        - {x: 126.93536, y: 19.255249}
+        - {x: 164.93536, y: 50.25525}
+    - name: johnswingleft_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 302
+        width: 317
+        height: 216
+      alignment: 9
+      pivot: {x: 0.26985434, y: 0.4562162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 153.45618, y: 26.457306}
+        - {x: 52.456177, y: 117.457306}
+        - {x: -72.54382, y: 117.457306}
+        - {x: -85.54382, y: 104.457306}
+        - {x: -85.54382, y: -83.542694}
+        - {x: -82.54382, y: -98.542694}
+        - {x: 225.45618, y: -98.542694}
+        - {x: 231.45618, y: -94.542694}
+        - {x: 231.45618, y: -62.542694}
+        - {x: 207.45618, y: -22.542694}
+    - name: johnswingleft_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 305
+        height: 216
+      alignment: 9
+      pivot: {x: 0.60631126, y: 0.49374482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.07507, y: 102.35112}
+        - {x: 35.075073, y: 109.35112}
+        - {x: -31.924927, y: 109.35112}
+        - {x: -52.924927, y: 64.35112}
+        - {x: -46.924927, y: 8.35112}
+        - {x: -27.924927, y: -3.64888}
+        - {x: -152.92493, y: -22.64888}
+        - {x: -184.92493, y: -68.64888}
+        - {x: -184.92493, y: -101.64888}
+        - {x: -182.92493, y: -106.64888}
+        - {x: 120.07507, y: -106.64888}
+        - {x: 120.07507, y: -30.64888}
+        - {x: 105.07507, y: 66.35112}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
