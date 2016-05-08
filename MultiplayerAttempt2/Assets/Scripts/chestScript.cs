@@ -24,20 +24,20 @@ public class chestScript : MonoBehaviour {
         {
             if (touchingChest)
                 anim.SetTrigger("ChestOpen");
-            SceneManager.LoadScene("Collide");
+            //SceneManager.LoadScene("Collide");
         }
         verticalOffset += Input.GetAxis("Mouse ScrollWheel");
 	}
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "LocalPlayer")
             touchingChest = true; 
     }
 
     void OnTriggerExit(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "LocalPlayer")
             touchingChest = false;
     }
 

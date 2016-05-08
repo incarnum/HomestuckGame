@@ -6,7 +6,7 @@ public class PlayerController : NetworkBehaviour {
     public float speed = 6f;
     public bool direction = true;
 	public bool canMove = true;
-	public GameObject playerCamera;
+	public Camera playerCamera;
     Vector3 movement;
     Rigidbody playerRigidbody;
 	private float playerCheck;
@@ -14,19 +14,27 @@ public class PlayerController : NetworkBehaviour {
 	void Awake () {
         playerRigidbody = GetComponent<Rigidbody>();
 		playerCheck = .1f;
+
+	}
+
+	void Start () {
+		if (isLocalPlayer){
+			Camera.main.GetComponent<moveCamera> ().localPlayer = gameObject;
+			gameObject.tag = "LocalPlayer";
+		}
 	}
 
 	void Update()
     {
-		if (playerCheck > 0) {
-			playerCheck -= Time.deltaTime;
-		}
-		if (playerCheck <= 0 && playerCheck > -1f) {
-			if (isLocalPlayer) {
-				Camera.main.transform.parent = transform;
-			}
-			playerCheck = -2f;
-		}
+//		if (playerCheck > 0) {
+//			playerCheck -= Time.deltaTime;
+//		}
+//		if (playerCheck <= 0 && playerCheck > -1f) {
+//			if (isLocalPlayer) {
+//				Camera.main.transform.parent = transform;
+//			}
+//			playerCheck = -2f;
+//		}
     }
 	void FixedUpdate () {
 		if (!isLocalPlayer)
