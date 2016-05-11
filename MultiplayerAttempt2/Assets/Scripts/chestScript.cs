@@ -1,20 +1,26 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections;
+using UnityEngine.Networking;
 
-public class chestScript : MonoBehaviour {
+public class chestScript : NetworkBehaviour {
     public Animator anim;
     private bool touchingChest = false;
     private float verticalOffset;
     private float startPos;
+	private GameObject localPlayer;
     Rigidbody body;
     Transform transformpos;
+
+	[SyncVar (hook = "syncChestPosition")] public Vector3 serverPosition;
+
 	// Use this for initialization
 	void Start () {
         //anim = GetComponentInChildren<Animator>();
         verticalOffset = 0;
         body = GetComponent<Rigidbody>();
         transformpos = GetComponent<Transform>();
+		localPlayer = GameObject.Find ("LocalPlayer");
 
     }
 	
@@ -44,7 +50,11 @@ public class chestScript : MonoBehaviour {
     void OnMouseDown()
     {
         body.useGravity = false;
+		//GetComponent<Object_SyncPosition> ().selected = true;
         startPos = transformpos.position.y;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().targetObject = gameObject;
+		Debug.Log ("sent the change");
+
         if (Input.GetMouseButtonDown(1))
         {
             //verticalOffset = 0;
@@ -62,5 +72,17 @@ public class chestScript : MonoBehaviour {
     {
         body.useGravity = true;
         verticalOffset = 0;
+		//GetComponent<Object_SyncPosition> ().selected = false;
     }
+
+	public void syncChestPosition(Vector3 pos){
+		serverPosition = pos;
+		transform.position = pos;
+		Debug.Log ("I got the position" + pos);
+	}
+		
+	public void updateSyncVar(Vector3 posi){
+		serverPosition = posi;
+		Debug.Log ("posi JJJJJJJJJJ" + posi);
+	}
 }

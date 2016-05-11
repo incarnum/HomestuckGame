@@ -25,11 +25,11 @@ public class Attack1 : NetworkBehaviour {
             attackOnUpdate = false;
         }
 
-		if (movePauseTime > 0) {
-			movePauseTime -= Time.deltaTime;
-		}
+//		if (movePauseTime > 0) {
+//			movePauseTime -= Time.deltaTime;
+//		}
 
-		if (movePauseTime <= 0) {GetComponent<PlayerController> ().canMove = true;}
+		if (movePauseTime <= Time.time) {GetComponent<PlayerController> ().canMove = true;}
         
 	}
 
@@ -47,7 +47,7 @@ public class Attack1 : NetworkBehaviour {
     void Attack()
     {
 		GetComponent<PlayerController> ().canMove = false;
-		movePauseTime = .4f;
+		movePauseTime = Time.time + .4f;
         if (GetComponent<PlayerController>().direction == true)
         {
             GameObject hitBox = Instantiate(prefab, myTransform.position + new Vector3(1, 0, -1), Quaternion.identity) as GameObject;

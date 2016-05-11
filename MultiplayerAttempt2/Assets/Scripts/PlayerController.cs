@@ -21,6 +21,7 @@ public class PlayerController : NetworkBehaviour {
 		if (isLocalPlayer){
 			Camera.main.GetComponent<moveCamera> ().localPlayer = gameObject;
 			gameObject.tag = "LocalPlayer";
+			gameObject.name = "LocalPlayer";
 		}
 	}
 
