@@ -22,9 +22,17 @@ public class Object_SyncPosition : NetworkBehaviour {
 
 	private Vector3 lastPos;
 	private float threshold = 0.2f;
+	private bool working = false;
 
 	void Start() {
 		targetObject = GameObject.Find ("Chest");
+	}
+
+	void Update () {
+		if(Input.GetKeyDown(KeyCode.Q))
+		{
+			working = true;
+		}
 	}
 
 	void FixedUpdate ()
@@ -44,17 +52,17 @@ public class Object_SyncPosition : NetworkBehaviour {
 
 	void LerpPosition()
 	{
-		//if(!isLocalPlayer)
+			if(!isLocalPlayer && working == false)
 		//{
 		//serverObject.transform.position = Vector3.Lerp(serverObject.transform.position, syncPos, Time.deltaTime * lerpRate);
 		//}
-		//targetObject.transform.position = syncPos;
+		targetObject.transform.position = syncPos;
 	}
 
 	[Command]
 	void CmdProvidePositionToServer (Vector3 pos)
 	{
-		//syncPos = pos;
+		syncPos = pos;
 		//serverObject = targetObject;
 		targetObject.GetComponent<chestScript> ().serverPosition = targetObject.GetComponent<Transform>().position;
 		targetObject.GetComponent<chestScript> ().updateSyncVar(targetObject.GetComponent<Transform>().position);
@@ -64,7 +72,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 	[ClientCallback]
 	void TransmitPosition()
 	{
-		if (Vector3.Distance(targetObject.transform.position, lastPos) > threshold)
+			if (Vector3.Distance(targetObject.transform.position, lastPos) > threshold && working)
 		{
 			CmdProvidePositionToServer(targetObject.transform.position);
 

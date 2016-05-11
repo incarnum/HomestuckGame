@@ -1,0 +1,5701 @@
+fileFormatVersion: 2
+guid: 805e8c2e0b12d314a897039181a1cc13
+timeCreated: 1460099213
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_0
+    21300002: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_1
+    21300004: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_2
+    21300006: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_3
+    21300008: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_4
+    21300010: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_5
+    21300012: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_6
+    21300014: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_7
+    21300016: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_8
+    21300018: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_9
+    21300020: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_10
+    21300022: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_11
+    21300024: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_12
+    21300026: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_13
+    21300028: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_14
+    21300030: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_15
+    21300032: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_16
+    21300034: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_17
+    21300036: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_18
+    21300038: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_19
+    21300040: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_20
+    21300042: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_21
+    21300044: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_22
+    21300046: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_23
+    21300048: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_24
+    21300050: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_25
+    21300052: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_26
+    21300054: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_27
+    21300056: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_28
+    21300058: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_29
+    21300060: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_30
+    21300062: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_31
+    21300064: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_32
+    21300066: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_33
+    21300068: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_34
+    21300070: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_35
+    21300072: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_36
+    21300074: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_37
+    21300076: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_38
+    21300078: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_39
+    21300080: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_40
+    21300082: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_41
+    21300084: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_42
+    21300086: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_43
+    21300088: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_44
+    21300090: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_45
+    21300092: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_46
+    21300094: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_47
+    21300096: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_48
+    21300098: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_49
+    21300100: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_50
+    21300102: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_51
+    21300104: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_52
+    21300106: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_53
+    21300108: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_54
+    21300110: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_55
+    21300112: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_56
+    21300114: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_57
+    21300116: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_58
+    21300118: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_59
+    21300120: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_60
+    21300122: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_61
+    21300124: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_62
+    21300126: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_63
+    21300128: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_64
+    21300130: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_65
+    21300132: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_66
+    21300134: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_67
+    21300136: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_68
+    21300138: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_69
+    21300140: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_70
+    21300142: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_71
+    21300144: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_72
+    21300146: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_73
+    21300148: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_74
+    21300150: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_75
+    21300152: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_76
+    21300154: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_77
+    21300156: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_78
+    21300158: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_79
+    21300160: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_80
+    21300162: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_81
+    21300164: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_82
+    21300166: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_83
+    21300168: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_84
+    21300170: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_85
+    21300172: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_86
+    21300174: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_87
+    21300176: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_88
+    21300178: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_89
+    21300180: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_90
+    21300182: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_91
+    21300184: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_92
+    21300186: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_93
+    21300188: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_94
+    21300190: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_95
+    21300192: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_96
+    21300194: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_97
+    21300196: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_98
+    21300198: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_99
+    21300200: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_100
+    21300202: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_101
+    21300204: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_102
+    21300206: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_103
+    21300208: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_104
+    21300210: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_105
+    21300212: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_106
+    21300214: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_107
+    21300216: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_108
+    21300218: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_109
+    21300220: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_110
+    21300222: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_111
+    21300224: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_112
+    21300226: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_113
+    21300228: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_114
+    21300230: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_115
+    21300232: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_116
+    21300234: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_117
+    21300236: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_118
+    21300238: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_119
+    21300240: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_120
+    21300242: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_121
+    21300244: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_122
+    21300246: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_123
+    21300248: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_124
+    21300250: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_125
+    21300252: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_126
+    21300254: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_127
+    21300256: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_128
+    21300258: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_129
+    21300260: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_130
+    21300262: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_131
+    21300264: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_132
+    21300266: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_133
+    21300268: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_134
+    21300270: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_135
+    21300272: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_136
+    21300274: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_137
+    21300276: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_138
+    21300278: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_139
+    21300280: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_140
+    21300282: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_141
+    21300284: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_142
+    21300286: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_143
+    21300288: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_144
+    21300290: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_145
+    21300292: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_146
+    21300294: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_147
+    21300296: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_148
+    21300298: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_149
+    21300300: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_150
+    21300302: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_151
+    21300304: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_152
+    21300306: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_153
+    21300308: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_154
+    21300310: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_155
+    21300312: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_156
+    21300314: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_157
+    21300316: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_158
+    21300318: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_159
+    21300320: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_160
+    21300322: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_161
+    21300324: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_162
+    21300326: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_163
+    21300328: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_164
+    21300330: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_165
+    21300332: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_166
+    21300334: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_167
+    21300336: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_168
+    21300338: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_169
+    21300340: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_170
+    21300342: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_171
+    21300344: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_172
+    21300346: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_173
+    21300348: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_174
+    21300350: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_175
+    21300352: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_176
+    21300354: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_177
+    21300356: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_178
+    21300358: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_179
+    21300360: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_180
+    21300362: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_181
+    21300364: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_182
+    21300366: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_183
+    21300368: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_184
+    21300370: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_185
+    21300372: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_186
+    21300374: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_187
+    21300376: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_188
+    21300378: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_189
+    21300380: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_190
+    21300382: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_191
+    21300384: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_192
+    21300386: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_193
+    21300388: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_194
+    21300390: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_195
+    21300392: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_196
+    21300394: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_197
+    21300396: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_198
+    21300398: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_199
+    21300400: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_200
+    21300402: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_201
+    21300404: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_202
+    21300406: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_203
+    21300408: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_204
+    21300410: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_205
+    21300412: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_206
+    21300414: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_207
+    21300416: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_208
+    21300418: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_209
+    21300420: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_210
+    21300422: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_211
+    21300424: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_212
+    21300426: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_213
+    21300428: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_214
+    21300430: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_215
+    21300432: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_216
+    21300434: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_217
+    21300436: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_218
+    21300438: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_219
+    21300440: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_220
+    21300442: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_221
+    21300444: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_222
+    21300446: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_223
+    21300448: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_224
+    21300450: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_225
+    21300452: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_226
+    21300454: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_227
+    21300456: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_228
+    21300458: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_229
+    21300460: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_230
+    21300462: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_231
+    21300464: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_232
+    21300466: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_233
+    21300468: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_234
+    21300470: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_235
+    21300472: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_236
+    21300474: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_237
+    21300476: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_238
+    21300478: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_239
+    21300480: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_240
+    21300482: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_241
+    21300484: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_242
+    21300486: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_243
+    21300488: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_244
+    21300490: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_245
+    21300492: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_246
+    21300494: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_247
+    21300496: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_248
+    21300498: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_249
+    21300500: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_250
+    21300502: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_251
+    21300504: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_252
+    21300506: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_253
+    21300508: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_254
+    21300510: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_255
+    21300512: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_256
+    21300514: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_257
+    21300516: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_258
+    21300518: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_259
+    21300520: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_260
+    21300522: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_261
+    21300524: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_262
+    21300526: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_263
+    21300528: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_264
+    21300530: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_265
+    21300532: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_266
+    21300534: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_267
+    21300536: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_268
+    21300538: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_269
+    21300540: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_270
+    21300542: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_271
+    21300544: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_272
+    21300546: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_273
+    21300548: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_274
+    21300550: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_275
+    21300552: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_276
+    21300554: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_277
+    21300556: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_278
+    21300558: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_279
+    21300560: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_280
+    21300562: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_281
+    21300564: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_282
+    21300566: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_283
+    21300568: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_284
+    21300570: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_285
+    21300572: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_286
+    21300574: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_287
+    21300576: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_288
+    21300578: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_289
+    21300580: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_290
+    21300582: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_291
+    21300584: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_292
+    21300586: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_293
+    21300588: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_294
+    21300590: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_295
+    21300592: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_296
+    21300594: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_297
+    21300596: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_298
+    21300598: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_299
+    21300600: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_300
+    21300602: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_301
+    21300604: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_302
+    21300606: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_303
+    21300608: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_304
+    21300610: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_305
+    21300612: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_306
+    21300614: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_307
+    21300616: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_308
+    21300618: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_309
+    21300620: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_310
+    21300622: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_311
+    21300624: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_312
+    21300626: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_313
+    21300628: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_314
+    21300630: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_315
+    21300632: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_316
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_0
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3830
+        width: 216
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.17691, y: 56.538452}
+        - {x: -53.17691, y: -0.46154785}
+        - {x: -43.17691, y: -31.461548}
+        - {x: -9.17691, y: -55.461548}
+        - {x: 37.82309, y: -55.461548}
+        - {x: 53.82309, y: 15.538452}
+        - {x: 53.82309, y: 56.538452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3832
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.99231, y: 58.52307}
+        - {x: -39.99231, y: 55.52307}
+        - {x: -39.99231, y: -22.476929}
+        - {x: -35.99231, y: -56.47693}
+        - {x: -32.99231, y: -57.47693}
+        - {x: 21.00769, y: -57.47693}
+        - {x: 41.00769, y: -16.476929}
+        - {x: 41.00769, y: 58.52307}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3832
+        width: 195
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.899994, y: -1.4769287}
+        - {x: 23.899994, y: -1.4769287}
+        - {x: 18.899994, y: -5.4769287}
+        - {x: 23.899994, y: 5.5230713}
+        - {x: 30.899994, y: 34.52307}
+        - {x: 20.899994, y: 56.52307}
+        - {x: -43.100006, y: 56.52307}
+        - {x: -48.100006, y: 47.52307}
+        - {x: -48.100006, y: -54.47693}
+        - {x: -42.100006, y: -55.47693}
+        - {x: 20.899994, y: -55.47693}
+        - {x: 48.899994, y: -36.47693}
+        - {x: 48.899994, y: -15.476929}
+        - {x: 47.899994, y: -10.476929}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_3
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 3828
+        width: 155
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.776917, y: -16.446167}
+        - {x: 38.776917, y: 25.553833}
+        - {x: 38.776917, y: 46.553833}
+        - {x: 30.776917, y: 60.553833}
+        - {x: -32.223083, y: 60.553833}
+        - {x: -38.223083, y: 58.553833}
+        - {x: -38.223083, y: -39.446167}
+        - {x: -30.223083, y: -59.446167}
+        - {x: 15.7769165, y: -59.446167}
+        - {x: 38.776917, y: -37.446167}
+        - {x: 38.776917, y: -23.446167}
+        - {x: 33.776917, y: -17.446167}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_4
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3834
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.553833, y: 60.50769}
+        - {x: -38.553833, y: 58.50769}
+        - {x: -38.553833, y: -41.49231}
+        - {x: -32.553833, y: -59.49231}
+        - {x: 18.446167, y: -59.49231}
+        - {x: 35.446167, y: -47.49231}
+        - {x: 39.446167, y: -21.49231}
+        - {x: 39.446167, y: 52.50769}
+        - {x: 35.446167, y: 60.50769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_5
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3836
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.707703, y: -18.50769}
+        - {x: 39.707703, y: 22.49231}
+        - {x: 39.707703, y: 50.49231}
+        - {x: 34.707703, y: 60.49231}
+        - {x: -38.292297, y: 60.49231}
+        - {x: -38.292297, y: -12.50769}
+        - {x: -35.292297, y: -32.50769}
+        - {x: -26.292297, y: -53.50769}
+        - {x: -17.292297, y: -59.50769}
+        - {x: 12.707703, y: -59.50769}
+        - {x: 34.707703, y: -45.50769}
+        - {x: 36.707703, y: -22.50769}
+        - {x: 31.707703, y: -18.50769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_6
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 4019
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.00769, y: 33.084595}
+        - {x: -36.99231, y: 33.084595}
+        - {x: -36.99231, y: -17.915405}
+        - {x: -34.99231, y: -28.915405}
+        - {x: -19.99231, y: -31.915405}
+        - {x: 19.00769, y: -31.915405}
+        - {x: 36.00769, y: -18.915405}
+        - {x: 38.00769, y: 0.08459473}
+        - {x: 38.00769, y: 14.084595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_7
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 4013
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.130737, y: 33.130737}
+        - {x: -16.869263, y: 33.130737}
+        - {x: -36.869263, y: 29.130737}
+        - {x: -36.869263, y: -23.869263}
+        - {x: -24.869263, y: -31.869263}
+        - {x: 28.130737, y: -31.869263}
+        - {x: 38.130737, y: -19.869263}
+        - {x: 38.130737, y: 20.130737}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_8
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 4015
+        width: 149
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.723022, y: 33.115356}
+        - {x: -29.723022, y: 32.115356}
+        - {x: -36.723022, y: 22.115356}
+        - {x: -36.723022, y: -10.884644}
+        - {x: -32.723022, y: -24.884644}
+        - {x: -23.723022, y: -31.884644}
+        - {x: 17.276978, y: -31.884644}
+        - {x: 37.276978, y: -23.884644}
+        - {x: 37.276978, y: 19.115356}
+        - {x: 26.276978, y: 33.115356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_9
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 4015
+        width: 149
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.738403, y: 33.115356}
+        - {x: -36.738403, y: 24.115356}
+        - {x: -36.738403, y: -20.884644}
+        - {x: -35.738403, y: -27.884644}
+        - {x: -15.738403, y: -31.884644}
+        - {x: 21.261597, y: -31.884644}
+        - {x: 37.261597, y: -20.884644}
+        - {x: 37.261597, y: 20.115356}
+        - {x: 27.261597, y: 33.115356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_10
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 4017
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.869263, y: 33.099976}
+        - {x: -22.130737, y: 33.099976}
+        - {x: -29.130737, y: 29.099976}
+        - {x: -37.130737, y: 24.099976}
+        - {x: -37.130737, y: -12.900024}
+        - {x: -27.130737, y: -31.900024}
+        - {x: 15.869263, y: -31.900024}
+        - {x: 34.869263, y: -18.900024}
+        - {x: 37.869263, y: -1.9000244}
+        - {x: 37.869263, y: 25.099976}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_11
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 4039
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.853882, y: 17.430786}
+        - {x: -18.853882, y: 16.430786}
+        - {x: -20.853882, y: 4.430786}
+        - {x: -20.853882, y: -16.569214}
+        - {x: 22.146118, y: -16.569214}
+        - {x: 22.146118, y: 11.430786}
+        - {x: 6.146118, y: 17.430786}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3808
+        width: 169
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.738464, y: 57.20764}
+        - {x: -41.738464, y: 42.20764}
+        - {x: -41.738464, y: -55.79236}
+        - {x: 42.261536, y: -55.79236}
+        - {x: 42.261536, y: 57.20764}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_13
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3887
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.146118, y: 30.599976}
+        - {x: -23.146118, y: 28.599976}
+        - {x: -23.146118, y: -26.400024}
+        - {x: -19.146118, y: -29.400024}
+        - {x: 23.853882, y: -29.400024}
+        - {x: 23.853882, y: 24.599976}
+        - {x: -3.1461182, y: 30.599976}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_14
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3885
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.930786, y: 28.115356}
+        - {x: -3.0692139, y: 28.115356}
+        - {x: -7.069214, y: 26.115356}
+        - {x: -35.069214, y: -11.884644}
+        - {x: -35.069214, y: -20.884644}
+        - {x: -32.069214, y: -24.884644}
+        - {x: -29.069214, y: -25.884644}
+        - {x: -18.069214, y: -26.884644}
+        - {x: 26.930786, y: -26.884644}
+        - {x: 35.930786, y: -22.884644}
+        - {x: 35.930786, y: 19.115356}
+        - {x: 25.930786, y: 23.115356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_15
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 3881
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.553833, y: 24.146118}
+        - {x: -1.446167, y: 30.146118}
+        - {x: -15.446167, y: 30.146118}
+        - {x: -22.446167, y: 19.146118}
+        - {x: -33.446167, y: -16.853882}
+        - {x: -33.446167, y: -28.853882}
+        - {x: 34.553833, y: -28.853882}
+        - {x: 34.553833, y: -6.853882}
+        - {x: 33.553833, y: -2.8538818}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_16
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3879
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.30774, y: 30.661499}
+        - {x: -24.30774, y: 21.661499}
+        - {x: -24.30774, y: -18.338501}
+        - {x: -22.30774, y: -29.338501}
+        - {x: 21.69226, y: -29.338501}
+        - {x: 25.69226, y: -26.338501}
+        - {x: 25.69226, y: 18.661499}
+        - {x: 12.692261, y: 30.661499}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_17
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 3881
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.19226074, y: 30.646118}
+        - {x: -14.807739, y: 30.646118}
+        - {x: -17.80774, y: 29.646118}
+        - {x: -35.80774, y: -2.3538818}
+        - {x: -35.80774, y: -29.353882}
+        - {x: 21.19226, y: -29.353882}
+        - {x: 37.19226, y: -23.353882}
+        - {x: 37.19226, y: 7.646118}
+        - {x: 24.19226, y: 24.646118}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_18
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 3871
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.276978, y: 33.223022}
+        - {x: -30.276978, y: 20.223022}
+        - {x: -30.276978, y: -31.776978}
+        - {x: 3.7230225, y: -31.776978}
+        - {x: 31.723022, y: -24.776978}
+        - {x: 31.723022, y: 15.223022}
+        - {x: 17.723022, y: 33.223022}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_19
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3873
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0384521, y: 29.707642}
+        - {x: -20.961548, y: 29.707642}
+        - {x: -33.961548, y: -11.292358}
+        - {x: -33.961548, y: -26.292358}
+        - {x: -32.961548, y: -28.292358}
+        - {x: 33.038452, y: -28.292358}
+        - {x: 35.038452, y: -22.292358}
+        - {x: 35.038452, y: 15.707642}
+        - {x: 22.038452, y: 26.707642}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_20
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 3854
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.038452, y: 34.85388}
+        - {x: -22.961548, y: 34.85388}
+        - {x: -25.961548, y: 31.853882}
+        - {x: -25.961548, y: -11.146118}
+        - {x: -20.961548, y: -34.14612}
+        - {x: 9.038452, y: -34.14612}
+        - {x: 27.038452, y: -22.146118}
+        - {x: 27.038452, y: 2.8538818}
+        - {x: 15.038452, y: 29.853882}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_21
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3862
+        width: 88
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.2923584, y: 36.79236}
+        - {x: -17.707642, y: 36.79236}
+        - {x: -18.707642, y: 35.79236}
+        - {x: -21.707642, y: 34.79236}
+        - {x: -21.707642, y: -6.2076416}
+        - {x: -8.707642, y: -36.20764}
+        - {x: 19.292358, y: -36.20764}
+        - {x: 22.292358, y: -26.207642}
+        - {x: 22.292358, y: 27.792358}
+        - {x: 20.292358, y: 33.79236}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3554
+        width: 150
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.207687, y: 37.6615}
+        - {x: 27.207687, y: 55.6615}
+        - {x: 26.207687, y: 56.6615}
+        - {x: -17.792313, y: 56.6615}
+        - {x: -29.792313, y: 54.6615}
+        - {x: -36.792313, y: 45.6615}
+        - {x: -36.792313, y: -30.338501}
+        - {x: -32.792313, y: -55.3385}
+        - {x: 22.207687, y: -55.3385}
+        - {x: 37.207687, y: 3.661499}
+        - {x: 38.207687, y: 19.661499}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_23
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3550
+        width: 149
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.66153, y: 58.19226}
+        - {x: -36.66153, y: 54.19226}
+        - {x: -36.66153, y: -56.80774}
+        - {x: 23.33847, y: -56.80774}
+        - {x: 37.33847, y: -3.8077393}
+        - {x: 37.33847, y: 58.19226}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3556
+        width: 175
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.130768, y: 54.14612}
+        - {x: -43.130768, y: 42.14612}
+        - {x: -43.130768, y: -52.85388}
+        - {x: 32.869232, y: -52.85388}
+        - {x: 43.869232, y: -39.85388}
+        - {x: 43.869232, y: 54.14612}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3541
+        width: 154
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.115387, y: 60.261597}
+        - {x: -37.884613, y: 60.261597}
+        - {x: -37.884613, y: -53.738403}
+        - {x: -31.884613, y: -59.738403}
+        - {x: 25.115387, y: -59.738403}
+        - {x: 39.115387, y: -53.738403}
+        - {x: 39.115387, y: 45.261597}
+        - {x: 31.115387, y: 58.261597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3582
+        width: 187
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.00769, y: -14.553833}
+        - {x: 45.00769, y: -3.553833}
+        - {x: 47.00769, y: 4.446167}
+        - {x: 47.00769, y: 42.446167}
+        - {x: 42.00769, y: 52.446167}
+        - {x: -30.99231, y: 52.446167}
+        - {x: -45.99231, y: -18.553833}
+        - {x: -45.99231, y: -51.553833}
+        - {x: -20.99231, y: -51.553833}
+        - {x: 18.00769, y: -45.553833}
+        - {x: 25.00769, y: -40.553833}
+        - {x: 30.00769, y: -29.553833}
+        - {x: 27.00769, y: -15.553833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_27
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3594
+        width: 154
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.961548, y: 52.35388}
+        - {x: -33.038452, y: 52.35388}
+        - {x: -38.038452, y: 43.35388}
+        - {x: -38.038452, y: -49.64612}
+        - {x: -37.038452, y: -51.64612}
+        - {x: 27.961548, y: -51.64612}
+        - {x: 38.961548, y: -21.646118}
+        - {x: 38.961548, y: 51.35388}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_28
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3592
+        width: 148
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.292297, y: 56.369263}
+        - {x: -36.292297, y: 51.369263}
+        - {x: -36.292297, y: -19.630737}
+        - {x: -33.292297, y: -50.630737}
+        - {x: -23.292297, y: -55.630737}
+        - {x: 15.707703, y: -55.630737}
+        - {x: 37.707703, y: -51.630737}
+        - {x: 37.707703, y: 56.369263}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_29
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3747
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.17688, y: -18.82312}
+        - {x: -20.17688, y: -28.82312}
+        - {x: 27.82312, y: -28.82312}
+        - {x: 27.82312, y: 27.17688}
+        - {x: 16.82312, y: 30.17688}
+        - {x: -21.17688, y: 30.17688}
+        - {x: -27.17688, y: 14.17688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_30
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3743
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.2230225, y: 29.207642}
+        - {x: -24.776978, y: 29.207642}
+        - {x: -26.776978, y: 26.207642}
+        - {x: -26.776978, y: -15.792358}
+        - {x: -9.776978, y: -27.792358}
+        - {x: 28.223022, y: -27.792358}
+        - {x: 28.223022, y: -11.792358}
+        - {x: 13.223022, y: 25.207642}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_31
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 3743
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.307739, y: 27.707642}
+        - {x: -34.30774, y: -7.2923584}
+        - {x: -34.30774, y: -26.292358}
+        - {x: 35.69226, y: -26.292358}
+        - {x: 35.69226, y: 13.707642}
+        - {x: 31.69226, y: 27.707642}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_32
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 3736
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.32312, y: 29.261597}
+        - {x: 1.3231201, y: 29.261597}
+        - {x: -22.67688, y: 21.261597}
+        - {x: -33.67688, y: -16.738403}
+        - {x: -33.67688, y: -28.738403}
+        - {x: 34.32312, y: -28.738403}
+        - {x: 34.32312, y: -11.738403}
+        - {x: 28.32312, y: 6.2615967}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_33
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 3736
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9923096, y: 29.761597}
+        - {x: -25.00769, y: 29.761597}
+        - {x: -27.00769, y: 27.761597}
+        - {x: -27.00769, y: -29.238403}
+        - {x: 27.99231, y: -29.238403}
+        - {x: 27.99231, y: -8.238403}
+        - {x: 13.99231, y: 24.761597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_34
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 3736
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2384033, y: 28.761597}
+        - {x: -25.238403, y: 28.761597}
+        - {x: -32.238403, y: 11.761597}
+        - {x: -32.238403, y: -22.238403}
+        - {x: -24.238403, y: -28.238403}
+        - {x: 21.761597, y: -28.238403}
+        - {x: 32.761597, y: -23.238403}
+        - {x: 32.761597, y: 5.7615967}
+        - {x: 16.761597, y: 22.761597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_35
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 3730
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8538818, y: 27.30774}
+        - {x: -22.146118, y: 12.307739}
+        - {x: -22.146118, y: -26.69226}
+        - {x: 22.853882, y: -26.69226}
+        - {x: 22.853882, y: 27.30774}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_36
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 3720
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.661499, y: 30.384644}
+        - {x: -30.338501, y: 14.384644}
+        - {x: -30.338501, y: -29.615356}
+        - {x: 9.661499, y: -29.615356}
+        - {x: 31.661499, y: -10.615356}
+        - {x: 31.661499, y: 27.384644}
+        - {x: 27.661499, y: 30.384644}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_37
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 3694
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.269287, y: 37.084595}
+        - {x: -21.269287, y: 34.084595}
+        - {x: -21.269287, y: -34.915405}
+        - {x: -19.269287, y: -35.915405}
+        - {x: -1.2692871, y: -35.915405}
+        - {x: 21.730713, y: -5.9154053}
+        - {x: 21.730713, y: 32.084595}
+        - {x: 9.730713, y: 37.084595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_38
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 3653
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_39
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 3655
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_40
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3649
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_41
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 3645
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_42
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 3651
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_43
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3631
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_44
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 3637
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_45
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 3631
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_46
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 3627
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_47
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3621
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.976929, y: 17.646118}
+        - {x: -24.976929, y: 5.646118}
+        - {x: -17.976929, y: -8.353882}
+        - {x: -0.9769287, y: -16.353882}
+        - {x: 26.023071, y: -16.353882}
+        - {x: 26.023071, y: -3.3538818}
+        - {x: 25.023071, y: -1.3538818}
+        - {x: -8.976929, y: 17.646118}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_48
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3625
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_49
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 3641
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_50
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 3639
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_51
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 3641
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_52
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3580
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_53
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3548
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_54
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3544
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.661499, y: 21.738403}
+        - {x: -22.661499, y: 7.7384033}
+        - {x: 5.338501, y: -20.261597}
+        - {x: 23.338501, y: -20.261597}
+        - {x: 23.338501, y: -5.2615967}
+        - {x: -11.661499, y: 21.738403}
+      - - {x: 19.338501, y: 17.738403}
+        - {x: 19.338501, y: 11.738403}
+        - {x: 22.338501, y: 8.738403}
+        - {x: 23.338501, y: 8.738403}
+        - {x: 23.338501, y: 19.738403}
+        - {x: 21.338501, y: 19.738403}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_55
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 3604
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_56
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 3550
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_57
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3548
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_58
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 3548
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_59
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 3558
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_60
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 3556
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_61
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 3546
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_62
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 3546
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_63
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3548
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_64
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3544
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 3271
+        width: 150
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.761536, y: 43.3385}
+        - {x: -36.761536, y: -31.661499}
+        - {x: -35.761536, y: -50.6615}
+        - {x: -30.761536, y: -55.6615}
+        - {x: 16.238464, y: -55.6615}
+        - {x: 38.238464, y: -49.6615}
+        - {x: 38.238464, y: 56.3385}
+        - {x: -26.761536, y: 56.3385}
+        - {x: -29.761536, y: 55.3385}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_66
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3271
+        width: 165
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.553833, y: 55.8385}
+        - {x: -38.553833, y: 14.838501}
+        - {x: -40.553833, y: -9.161499}
+        - {x: -40.553833, y: -55.1615}
+        - {x: 34.446167, y: -55.1615}
+        - {x: 41.446167, y: -5.161499}
+        - {x: 41.446167, y: 50.8385}
+        - {x: 40.446167, y: 55.8385}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_67
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3277
+        width: 148
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.261536, y: 56.29236}
+        - {x: -36.261536, y: -43.70764}
+        - {x: -32.261536, y: -55.70764}
+        - {x: 17.738464, y: -55.70764}
+        - {x: 37.738464, y: -18.707642}
+        - {x: 37.738464, y: 53.29236}
+        - {x: 36.738464, y: 56.29236}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_68
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 3281
+        width: 317
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.192322, y: 55.261597}
+        - {x: -78.19232, y: 3.2615967}
+        - {x: -78.19232, y: -54.738403}
+        - {x: 66.80768, y: -54.738403}
+        - {x: 71.80768, y: -53.738403}
+        - {x: 78.80768, y: 6.2615967}
+        - {x: 78.80768, y: 41.261597}
+        - {x: 72.80768, y: 55.261597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_69
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3306
+        width: 317
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0076904, y: 55.569214}
+        - {x: 3.0076904, y: 33.569214}
+        - {x: 2.0076904, y: 20.569214}
+        - {x: -63.99231, y: -13.430786}
+        - {x: -77.99231, y: -35.430786}
+        - {x: -77.99231, y: -50.430786}
+        - {x: -73.99231, y: -54.430786}
+        - {x: 74.00769, y: -54.430786}
+        - {x: 79.00769, y: -14.430786}
+        - {x: 79.00769, y: 44.569214}
+        - {x: 73.00769, y: 55.569214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_70
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 3485
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_71
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 3493
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_72
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 3487
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_73
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3487
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_74
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 3485
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.753784, y: 17.19226}
+        - {x: -20.753784, y: -15.807739}
+        - {x: 21.246216, y: -15.807739}
+        - {x: 21.246216, y: 11.192261}
+        - {x: 0.24621582, y: 17.19226}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_75
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3279
+        width: 191
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.00769, y: 53.276978}
+        - {x: -47.00769, y: 1.2769775}
+        - {x: -47.00769, y: -52.723022}
+        - {x: 17.99231, y: -52.723022}
+        - {x: 47.99231, y: -21.723022}
+        - {x: 47.99231, y: 53.276978}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_76
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3296
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9923096, y: 28.146118}
+        - {x: -34.99231, y: -9.853882}
+        - {x: -34.99231, y: -23.853882}
+        - {x: -33.99231, y: -25.853882}
+        - {x: -27.99231, y: -26.853882}
+        - {x: 30.00769, y: -26.853882}
+        - {x: 36.00769, y: -19.853882}
+        - {x: 36.00769, y: 22.146118}
+        - {x: 25.00769, y: 28.146118}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_77
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 3292
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.369263, y: -28.82312}
+        - {x: 34.630737, y: -28.82312}
+        - {x: 34.630737, y: 3.17688}
+        - {x: 29.630737, y: 26.17688}
+        - {x: 22.630737, y: 30.17688}
+        - {x: -17.369263, y: 30.17688}
+        - {x: -33.369263, y: -0.8231201}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_78
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 3290
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7615967, y: 31.19226}
+        - {x: -22.238403, y: 31.19226}
+        - {x: -24.238403, y: 26.19226}
+        - {x: -24.238403, y: -23.80774}
+        - {x: -21.238403, y: -29.80774}
+        - {x: 0.7615967, y: -29.80774}
+        - {x: 18.761597, y: -26.80774}
+        - {x: 24.761597, y: -15.807739}
+        - {x: 24.761597, y: 10.192261}
+        - {x: 15.761597, y: 27.19226}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_79
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 3292
+        width: 145
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.261597, y: 29.67688}
+        - {x: 13.261597, y: 30.67688}
+        - {x: -17.738403, y: 30.67688}
+        - {x: -35.738403, y: -6.32312}
+        - {x: -35.738403, y: -29.32312}
+        - {x: 27.261597, y: -29.32312}
+        - {x: 36.261597, y: -20.32312}
+        - {x: 36.261597, y: 7.67688}
+        - {x: 35.261597, y: 7.67688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_80
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 3281
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.3077393, y: 32.761597}
+        - {x: -29.69226, y: 32.761597}
+        - {x: -30.69226, y: 27.761597}
+        - {x: -30.69226, y: -32.238403}
+        - {x: 4.3077393, y: -32.238403}
+        - {x: 31.30774, y: -25.238403}
+        - {x: 31.30774, y: 12.761597}
+        - {x: 16.30774, y: 30.761597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_81
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 3284
+        width: 138
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.884644, y: 29.738403}
+        - {x: -17.884644, y: 28.738403}
+        - {x: -29.884644, y: 20.738403}
+        - {x: -33.884644, y: -4.2615967}
+        - {x: -33.884644, y: -28.261597}
+        - {x: 35.115356, y: -28.261597}
+        - {x: 35.115356, y: 16.738403}
+        - {x: 29.115356, y: 29.738403}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_82
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 3290
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.853882, y: -33.80774}
+        - {x: 27.146118, y: -33.80774}
+        - {x: 27.146118, y: 13.192261}
+        - {x: 23.146118, y: 35.19226}
+        - {x: -25.853882, y: 35.19226}
+        - {x: -25.853882, y: -21.80774}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_83
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3300
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.207642, y: 37.115356}
+        - {x: -21.207642, y: 34.115356}
+        - {x: -21.207642, y: -0.88464355}
+        - {x: 1.7923584, y: -35.884644}
+        - {x: 17.792358, y: -35.884644}
+        - {x: 21.792358, y: -22.884644}
+        - {x: 21.792358, y: 30.115356}
+        - {x: 6.7923584, y: 37.115356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_84
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2989
+        width: 321
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.761536, y: 55.00769}
+        - {x: 11.761536, y: 53.00769}
+        - {x: 2.7615356, y: 32.00769}
+        - {x: 4.7615356, y: 15.00769}
+        - {x: -63.238464, y: -9.99231}
+        - {x: -79.238464, y: -31.99231}
+        - {x: -79.238464, y: -46.99231}
+        - {x: -74.238464, y: -53.99231}
+        - {x: 65.761536, y: -53.99231}
+        - {x: 79.761536, y: -9.99231}
+        - {x: 79.761536, y: 55.00769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_85
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3009
+        width: 321
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.17691, y: 54.35388}
+        - {x: -51.17691, y: 32.35388}
+        - {x: -79.17691, y: 2.3538818}
+        - {x: -79.17691, y: -53.64612}
+        - {x: 67.82309, y: -53.64612}
+        - {x: 79.82309, y: -24.646118}
+        - {x: 79.82309, y: 54.35388}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_86
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3013
+        width: 323
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.3692017, y: 53.82312}
+        - {x: -79.3692, y: 14.82312}
+        - {x: -79.3692, y: -53.17688}
+        - {x: 71.6308, y: -53.17688}
+        - {x: 80.6308, y: -28.17688}
+        - {x: 80.6308, y: 53.82312}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_87
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3028
+        width: 321
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.946167, y: 54.70764}
+        - {x: -78.94617, y: 18.707642}
+        - {x: -78.94617, y: -49.29236}
+        - {x: -73.94617, y: -53.29236}
+        - {x: 78.05383, y: -53.29236}
+        - {x: 80.05383, y: -46.29236}
+        - {x: 80.05383, y: 54.70764}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_88
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3174
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.523071, y: 29.584595}
+        - {x: -26.523071, y: 19.584595}
+        - {x: -26.523071, y: -14.415405}
+        - {x: -20.523071, y: -28.415405}
+        - {x: 27.476929, y: -28.415405}
+        - {x: 27.476929, y: 15.584595}
+        - {x: 5.4769287, y: 29.584595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_89
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3170
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.0999756, y: 29.115356}
+        - {x: -23.099976, y: 29.115356}
+        - {x: -25.099976, y: 27.115356}
+        - {x: -27.099976, y: 21.115356}
+        - {x: -27.099976, y: -14.884644}
+        - {x: -12.099976, y: -27.884644}
+        - {x: 27.900024, y: -27.884644}
+        - {x: 27.900024, y: -6.8846436}
+        - {x: 13.900024, y: 25.115356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_90
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 3170
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.646118, y: 27.615356}
+        - {x: -34.64612, y: -12.384644}
+        - {x: -34.64612, y: -23.384644}
+        - {x: -29.646118, y: -26.384644}
+        - {x: 29.353882, y: -26.384644}
+        - {x: 35.35388, y: -23.384644}
+        - {x: 35.35388, y: 27.615356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_91
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 3164
+        width: 136
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5230713, y: 29.661499}
+        - {x: -18.523071, y: 24.661499}
+        - {x: -33.52307, y: -8.338501}
+        - {x: -33.52307, y: -28.338501}
+        - {x: 34.47693, y: -28.338501}
+        - {x: 34.47693, y: -6.338501}
+        - {x: 18.476929, y: 29.661499}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_92
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 3162
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.338501, y: 30.67688}
+        - {x: -27.338501, y: 30.67688}
+        - {x: -27.338501, y: -29.32312}
+        - {x: 18.661499, y: -29.32312}
+        - {x: 28.661499, y: -26.32312}
+        - {x: 28.661499, y: -11.32312}
+        - {x: 14.661499, y: 26.67688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_93
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 3162
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.084595, y: 29.67688}
+        - {x: -32.084595, y: 24.67688}
+        - {x: -32.084595, y: -19.32312}
+        - {x: -29.084595, y: -28.32312}
+        - {x: 27.915405, y: -28.32312}
+        - {x: 32.915405, y: -24.32312}
+        - {x: 32.915405, y: 10.67688}
+        - {x: 20.915405, y: 29.67688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_94
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 3158
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.915405, y: 19.707642}
+        - {x: 13.915405, y: 27.707642}
+        - {x: 5.9154053, y: 27.707642}
+        - {x: -22.084595, y: 10.707642}
+        - {x: -22.084595, y: -26.292358}
+        - {x: -5.0845947, y: -26.292358}
+        - {x: 22.915405, y: -19.292358}
+        - {x: 22.915405, y: 1.7076416}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_95
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 3162
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.261597, y: 30.67688}
+        - {x: -30.738403, y: 10.67688}
+        - {x: -30.738403, y: -18.32312}
+        - {x: -28.738403, y: -29.32312}
+        - {x: 14.261597, y: -29.32312}
+        - {x: 30.261597, y: -18.32312}
+        - {x: 31.261597, y: -13.32312}
+        - {x: 31.261597, y: 30.67688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_96
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 3131
+        width: 88
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.753784, y: 36.915405}
+        - {x: -21.753784, y: -23.084595}
+        - {x: -16.753784, y: -36.084595}
+        - {x: -2.7537842, y: -36.084595}
+        - {x: 22.246216, y: -8.084595}
+        - {x: 22.246216, y: 36.915405}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_97
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3070
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_98
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3072
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_99
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 3066
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_100
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 3062
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_101
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 3068
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_102
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 3048
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_103
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 3054
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_104
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 3048
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_105
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 3044
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_106
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3038
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.976929, y: 17.630737}
+        - {x: -24.976929, y: 17.630737}
+        - {x: -24.976929, y: 5.6307373}
+        - {x: -21.976929, y: -3.3692627}
+        - {x: 10.023071, y: -16.369263}
+        - {x: 26.023071, y: -16.369263}
+        - {x: 26.023071, y: 1.6307373}
+        - {x: 25.023071, y: 2.6307373}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_107
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3042
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_108
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3058
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_109
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3056
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_110
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3058
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_111
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 2989
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_112
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2956
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_113
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2952
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.146118, y: 9.292358}
+        - {x: -5.146118, y: -8.707642}
+        - {x: 11.853882, y: -20.707642}
+        - {x: 23.853882, y: -20.707642}
+        - {x: 23.853882, y: -11.707642}
+        - {x: 20.853882, y: -3.7076416}
+        - {x: -10.146118, y: 21.292358}
+        - {x: -23.146118, y: 21.292358}
+      - - {x: 19.853882, y: 17.292358}
+        - {x: 18.853882, y: 12.292358}
+        - {x: 22.853882, y: 8.292358}
+        - {x: 23.853882, y: 8.292358}
+        - {x: 23.853882, y: 19.292358}
+        - {x: 21.853882, y: 19.292358}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_114
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 3013
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_115
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2959
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_116
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 2956
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_117
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2956
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_118
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 2967
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_119
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2733
+        width: 249
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.32306, y: 61.47693}
+        - {x: -61.32306, y: -11.523071}
+        - {x: -37.32306, y: -60.52307}
+        - {x: 62.67694, y: -60.52307}
+        - {x: 62.67694, y: 58.47693}
+        - {x: 58.67694, y: 61.47693}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_120
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2743
+        width: 276
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.099976, y: 57.900024}
+        - {x: -68.099976, y: 49.900024}
+        - {x: -68.099976, y: -57.099976}
+        - {x: 2.9000244, y: -57.099976}
+        - {x: 68.900024, y: -36.099976}
+        - {x: 68.900024, y: 35.900024}
+        - {x: 36.900024, y: 57.900024}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_121
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 2965
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_122
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2956
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_123
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 2956
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_124
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 2956
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_125
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2954
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_126
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2707
+        width: 149
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.692307, y: 56.67688}
+        - {x: -36.692307, y: 50.67688}
+        - {x: -36.692307, y: -33.32312}
+        - {x: -34.692307, y: -55.32312}
+        - {x: 17.307693, y: -55.32312}
+        - {x: 37.307693, y: -11.32312}
+        - {x: 37.307693, y: 56.67688}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_127
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2729
+        width: 319
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.615387, y: 55.00769}
+        - {x: -74.61539, y: 5.0076904}
+        - {x: -78.61539, y: -20.99231}
+        - {x: -78.61539, y: -53.99231}
+        - {x: 72.38461, y: -53.99231}
+        - {x: 79.38461, y: -35.99231}
+        - {x: 79.38461, y: 55.00769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_128
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2719
+        width: 251
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.761536, y: 59.584595}
+        - {x: -61.761536, y: 56.584595}
+        - {x: -61.761536, y: 31.584595}
+        - {x: -50.761536, y: 19.584595}
+        - {x: -41.761536, y: 11.584595}
+        - {x: -22.761536, y: -58.415405}
+        - {x: 63.238464, y: -58.415405}
+        - {x: 63.238464, y: 59.584595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_129
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2774
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.038452, y: 32.1615}
+        - {x: -22.961548, y: 32.1615}
+        - {x: -23.961548, y: 29.161499}
+        - {x: -23.961548, y: -30.838501}
+        - {x: 23.038452, y: -30.838501}
+        - {x: 25.038452, y: -27.838501}
+        - {x: 25.038452, y: -12.838501}
+        - {x: 21.038452, y: 25.161499}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_130
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2898
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_131
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2774
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.869263, y: 32.1615}
+        - {x: -24.869263, y: 21.161499}
+        - {x: -24.869263, y: -23.838501}
+        - {x: -21.869263, y: -30.838501}
+        - {x: 1.1307373, y: -30.838501}
+        - {x: 26.130737, y: -24.838501}
+        - {x: 26.130737, y: 32.1615}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_132
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2772
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.961548, y: -27.32312}
+        - {x: 32.038452, y: -27.32312}
+        - {x: 36.038452, y: -25.32312}
+        - {x: 36.038452, y: 22.67688}
+        - {x: 14.038452, y: 28.67688}
+        - {x: -11.961548, y: 28.67688}
+        - {x: -34.961548, y: -7.32312}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_133
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2770
+        width: 134
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.97693, y: -30.30774}
+        - {x: 23.023071, y: -30.30774}
+        - {x: 34.02307, y: -29.30774}
+        - {x: 34.02307, y: -3.3077393}
+        - {x: 26.023071, y: 22.69226}
+        - {x: -2.9769287, y: 31.69226}
+        - {x: -19.976929, y: 31.69226}
+        - {x: -32.97693, y: -7.3077393}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_134
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 2766
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.069214, y: 25.723022}
+        - {x: 0.06921387, y: 31.723022}
+        - {x: -20.930786, y: 31.723022}
+        - {x: -35.930786, y: -7.2769775}
+        - {x: -35.930786, y: -30.276978}
+        - {x: 21.069214, y: -30.276978}
+        - {x: 33.069214, y: -29.276978}
+        - {x: 37.069214, y: -17.276978}
+        - {x: 37.069214, y: 10.723022}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_135
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 2753
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.1922607, y: 33.32312}
+        - {x: -27.80774, y: 33.32312}
+        - {x: -33.80774, y: 8.32312}
+        - {x: -33.80774, y: -32.67688}
+        - {x: 13.192261, y: -32.67688}
+        - {x: 31.19226, y: -28.67688}
+        - {x: 35.19226, y: -21.67688}
+        - {x: 35.19226, y: 16.32312}
+        - {x: 23.19226, y: 29.32312}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_136
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 2761
+        width: 150
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.084595, y: 32.261597}
+        - {x: -37.084595, y: 8.261597}
+        - {x: -37.084595, y: -31.738403}
+        - {x: 14.915405, y: -31.738403}
+        - {x: 33.915405, y: -27.738403}
+        - {x: 37.915405, y: -21.738403}
+        - {x: 37.915405, y: 13.261597}
+        - {x: 9.915405, y: 32.261597}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_137
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2762
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.053833, y: 33.253906}
+        - {x: -30.053833, y: -17.746094}
+        - {x: -15.053833, y: -31.746094}
+        - {x: 23.946167, y: -31.746094}
+        - {x: 30.946167, y: -27.746094}
+        - {x: 30.946167, y: 21.253906}
+        - {x: -3.053833, y: 33.253906}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_138
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2792
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.884644, y: 22.023071}
+        - {x: -20.884644, y: 20.023071}
+        - {x: -21.884644, y: 10.023071}
+        - {x: -21.884644, y: -18.976929}
+        - {x: -19.884644, y: -20.976929}
+        - {x: 13.115356, y: -20.976929}
+        - {x: 23.115356, y: -12.976929}
+        - {x: 23.115356, y: 15.023071}
+        - {x: -2.8846436, y: 22.023071}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_139
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2406
+        width: 150
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.06923, y: 56.99231}
+        - {x: -37.06923, y: 45.99231}
+        - {x: -37.06923, y: -10.00769}
+        - {x: -35.06923, y: -32.00769}
+        - {x: -27.06923, y: -56.00769}
+        - {x: 16.93077, y: -56.00769}
+        - {x: 37.93077, y: -1.0076904}
+        - {x: 37.93077, y: 50.99231}
+        - {x: 28.93077, y: 56.99231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_140
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2416
+        width: 307
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.64615, y: 54.415405}
+        - {x: -69.64615, y: 33.415405}
+        - {x: -75.64615, y: 10.415405}
+        - {x: -75.64615, y: -53.584595}
+        - {x: 73.35385, y: -53.584595}
+        - {x: 76.35385, y: -52.584595}
+        - {x: 76.35385, y: -8.584595}
+        - {x: 3.3538513, y: 54.415405}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_141
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2430
+        width: 313
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.83847, y: -9.692261}
+        - {x: 77.83847, y: 55.30774}
+        - {x: 16.83847, y: 55.30774}
+        - {x: 8.83847, y: 53.30774}
+        - {x: -77.16153, y: -21.69226}
+        - {x: -77.16153, y: -54.69226}
+        - {x: 52.83847, y: -54.69226}
+        - {x: 65.83847, y: -48.69226}
+        - {x: 68.83847, y: -34.69226}
+        - {x: 62.83847, y: -17.69226}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_142
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2443
+        width: 315
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.261536, y: 56.20764}
+        - {x: 10.261536, y: 56.20764}
+        - {x: -10.738464, y: 40.20764}
+        - {x: -77.738464, y: -8.792358}
+        - {x: -77.738464, y: -50.79236}
+        - {x: -60.738464, y: -54.79236}
+        - {x: 50.261536, y: -54.79236}
+        - {x: 52.261536, y: -53.79236}
+        - {x: 61.261536, y: -34.79236}
+        - {x: 78.261536, y: 1.2076416}
+        - {x: 78.261536, y: 51.20764}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_143
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2434
+        width: 266
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.35382, y: 58.276978}
+        - {x: -50.64618, y: 58.276978}
+        - {x: -65.64618, y: 50.276978}
+        - {x: -65.64618, y: 30.276978}
+        - {x: -44.64618, y: 6.2769775}
+        - {x: -3.6461792, y: -57.723022}
+        - {x: 22.35382, y: -57.723022}
+        - {x: 28.35382, y: -56.723022}
+        - {x: 48.35382, y: -37.723022}
+        - {x: 66.35382, y: 6.2769775}
+        - {x: 66.35382, y: 50.276978}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_144
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2629
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.930786, y: -29.223022}
+        - {x: 29.069214, y: -29.223022}
+        - {x: 29.069214, y: -3.2230225}
+        - {x: 26.069214, y: 19.776978}
+        - {x: 3.0692139, y: 29.776978}
+        - {x: -24.930786, y: 29.776978}
+        - {x: -27.930786, y: 28.776978}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_145
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2627
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.6922607, y: 29.792358}
+        - {x: -27.69226, y: 26.792358}
+        - {x: -27.69226, y: -16.207642}
+        - {x: -16.69226, y: -29.207642}
+        - {x: 28.30774, y: -29.207642}
+        - {x: 28.30774, y: -5.2076416}
+        - {x: 21.30774, y: 29.792358}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_146
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 2625
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.161499, y: 29.80774}
+        - {x: 21.161499, y: 31.80774}
+        - {x: 7.161499, y: 31.80774}
+        - {x: -19.838501, y: 25.80774}
+        - {x: -32.8385, y: -13.192261}
+        - {x: -32.8385, y: -31.19226}
+        - {x: 22.161499, y: -31.19226}
+        - {x: 34.1615, y: -28.19226}
+        - {x: 34.1615, y: -14.192261}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_147
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2623
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.630737, y: -12.67688}
+        - {x: -34.630737, y: -23.67688}
+        - {x: -27.630737, y: -27.67688}
+        - {x: 30.369263, y: -27.67688}
+        - {x: 35.369263, y: -24.67688}
+        - {x: 35.369263, y: 19.32312}
+        - {x: 33.369263, y: 27.32312}
+        - {x: 31.369263, y: 28.32312}
+        - {x: 20.369263, y: 28.32312}
+        - {x: -10.630737, y: 18.32312}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_148
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 2632
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4923096, y: 30.753906}
+        - {x: -25.49231, y: 30.753906}
+        - {x: -30.49231, y: 15.753906}
+        - {x: -30.49231, y: -18.246094}
+        - {x: -14.49231, y: -29.246094}
+        - {x: 14.50769, y: -29.246094}
+        - {x: 31.50769, y: -17.246094}
+        - {x: 31.50769, y: 2.7539062}
+        - {x: 29.50769, y: 7.7539062}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_149
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 2629
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.6307373, y: 30.776978}
+        - {x: -30.369263, y: 9.776978}
+        - {x: -30.369263, y: -8.223022}
+        - {x: -25.369263, y: -30.223022}
+        - {x: 18.630737, y: -30.223022}
+        - {x: 31.630737, y: -26.223022}
+        - {x: 31.630737, y: 30.776978}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_150
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2629
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.4000244, y: 27.276978}
+        - {x: -22.400024, y: 11.276978}
+        - {x: -22.400024, y: -26.723022}
+        - {x: 4.5999756, y: -26.723022}
+        - {x: 22.599976, y: -23.723022}
+        - {x: 23.599976, y: -22.723022}
+        - {x: 23.599976, y: 11.276978}
+        - {x: 18.599976, y: 27.276978}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_151
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 2595
+        width: 86
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2384033, y: 37.038452}
+        - {x: -21.238403, y: 33.038452}
+        - {x: -21.238403, y: -5.961548}
+        - {x: 4.7615967, y: -35.961548}
+        - {x: 21.761597, y: -35.961548}
+        - {x: 21.761597, y: 26.038452}
+        - {x: 18.761597, y: 37.038452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_152
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 2595
+        width: 89
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.853882, y: 36.538452}
+        - {x: -21.853882, y: 25.538452}
+        - {x: -21.853882, y: -4.461548}
+        - {x: 6.146118, y: -35.461548}
+        - {x: 21.146118, y: -35.461548}
+        - {x: 23.146118, y: -14.461548}
+        - {x: 23.146118, y: 29.538452}
+        - {x: -4.853882, y: 36.538452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_153
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2536
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_154
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 2538
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_155
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 2532
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_156
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2528
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_157
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2534
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_158
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2514
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_159
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2520
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_160
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2514
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_161
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 2510
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_162
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2504
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.946167, y: 17.738403}
+        - {x: -24.946167, y: 1.7384033}
+        - {x: -2.946167, y: -16.261597}
+        - {x: 26.053833, y: -16.261597}
+        - {x: 26.053833, y: 3.7384033}
+        - {x: -8.946167, y: 17.738403}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_163
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2508
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_164
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2524
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_165
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 2522
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_166
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 2524
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_167
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2455
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_168
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2422
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_169
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2418
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.115356, y: 21.400024}
+        - {x: -23.115356, y: 6.4000244}
+        - {x: 7.8846436, y: -20.599976}
+        - {x: 23.884644, y: -20.599976}
+        - {x: 23.884644, y: -11.599976}
+        - {x: 22.884644, y: -5.5999756}
+        - {x: -9.115356, y: 21.400024}
+      - - {x: 19.884644, y: 17.400024}
+        - {x: 18.884644, y: 12.400024}
+        - {x: 22.884644, y: 8.400024}
+        - {x: 23.884644, y: 8.400024}
+        - {x: 23.884644, y: 19.400024}
+        - {x: 21.884644, y: 19.400024}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_170
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 2479
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_171
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2426
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_172
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2422
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_173
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 2422
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_174
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 2432
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_175
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 2430
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_176
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 2422
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_177
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2422
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_178
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 2422
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_179
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2420
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2132
+        width: 276
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9615402, y: 58.099976}
+        - {x: -15.03846, y: 38.099976}
+        - {x: -3.0384598, y: 6.0999756}
+        - {x: 10.96154, y: -2.9000244}
+        - {x: 15.96154, y: -4.9000244}
+        - {x: -32.03846, y: 4.0999756}
+        - {x: -25.03846, y: 12.099976}
+        - {x: -26.03846, y: 22.099976}
+        - {x: -41.03846, y: 26.099976}
+        - {x: -66.03846, y: 14.099976}
+        - {x: -68.03846, y: 12.099976}
+        - {x: -68.03846, y: -6.9000244}
+        - {x: -63.03846, y: -13.900024}
+        - {x: -58.03846, y: -21.900024}
+        - {x: 32.96154, y: -56.900024}
+        - {x: 68.96154, y: -56.900024}
+        - {x: 68.96154, y: 47.099976}
+        - {x: 63.96154, y: 58.099976}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_181
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2150
+        width: 309
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.00769, y: -14.538452}
+        - {x: 73.00769, y: 34.461548}
+        - {x: 54.00769, y: 54.461548}
+        - {x: -17.99231, y: 54.461548}
+        - {x: -75.99231, y: -4.538452}
+        - {x: -75.99231, y: -53.538452}
+        - {x: 77.00769, y: -53.538452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_182
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2140
+        width: 254
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.738464, y: 59.538452}
+        - {x: -62.738464, y: -58.461548}
+        - {x: 35.261536, y: -58.461548}
+        - {x: 63.261536, y: 9.538452}
+        - {x: 63.261536, y: 59.538452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_183
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2138
+        width: 252
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.884644, y: 61.553833}
+        - {x: -51.884644, y: 56.553833}
+        - {x: -61.884644, y: 36.553833}
+        - {x: -61.884644, y: -52.446167}
+        - {x: -20.884644, y: -60.446167}
+        - {x: 11.115356, y: -60.446167}
+        - {x: 63.115356, y: 18.553833}
+        - {x: 63.115356, y: 59.553833}
+        - {x: 61.115356, y: 61.553833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_184
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2353
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_185
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2156
+        width: 307
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.630798, y: -38.584595}
+        - {x: -1.6307983, y: -38.584595}
+        - {x: 37.3692, y: -54.584595}
+        - {x: 76.3692, y: -54.584595}
+        - {x: 76.3692, y: -7.5845947}
+        - {x: 30.369202, y: 55.415405}
+        - {x: -72.6308, y: 55.415405}
+        - {x: -75.6308, y: 38.415405}
+        - {x: -75.6308, y: -54.584595}
+        - {x: -4.6307983, y: -54.584595}
+        - {x: 4.3692017, y: -50.584595}
+        - {x: -5.6307983, y: -40.584595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_186
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2347
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_187
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2223
+        width: 169
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.52307, y: 31.900024}
+        - {x: -41.52307, y: 1.9000244}
+        - {x: -35.52307, y: -23.099976}
+        - {x: -17.523071, y: -31.099976}
+        - {x: 26.476929, y: -31.099976}
+        - {x: 36.47693, y: -29.099976}
+        - {x: 42.47693, y: -19.099976}
+        - {x: 42.47693, y: 16.900024}
+        - {x: 25.476929, y: 31.900024}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_188
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2219
+        width: 169
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.615356, y: 31.930786}
+        - {x: -41.615356, y: -31.069214}
+        - {x: 41.384644, y: -31.069214}
+        - {x: 42.384644, y: -30.069214}
+        - {x: 42.384644, y: 19.930786}
+        - {x: 26.384644, y: 31.930786}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_189
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2213
+        width: 169
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.69226, y: 31.976929}
+        - {x: -41.69226, y: 5.9769287}
+        - {x: -35.69226, y: -21.023071}
+        - {x: -16.69226, y: -31.023071}
+        - {x: 40.30774, y: -31.023071}
+        - {x: 42.30774, y: -26.023071}
+        - {x: 42.30774, y: 29.976929}
+        - {x: 39.30774, y: 31.976929}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_190
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2215
+        width: 168
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.723022, y: 26.961548}
+        - {x: 29.723022, y: 31.961548}
+        - {x: -41.276978, y: 31.961548}
+        - {x: -41.276978, y: 1.9615479}
+        - {x: -36.276978, y: -21.038452}
+        - {x: -11.276978, y: -31.038452}
+        - {x: 16.723022, y: -31.038452}
+        - {x: 31.723022, y: -26.038452}
+        - {x: 42.723022, y: -16.038452}
+        - {x: 42.723022, y: 10.961548}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_191
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1906
+        width: 308
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.19232, y: -0.66156006}
+        - {x: 70.19232, y: 53.33844}
+        - {x: 62.19232, y: 54.33844}
+        - {x: -14.807678, y: 54.33844}
+        - {x: -33.80768, y: 39.33844}
+        - {x: -75.80768, y: -29.66156}
+        - {x: -75.80768, y: -51.66156}
+        - {x: -67.80768, y: -53.66156}
+        - {x: 77.19232, y: -53.66156}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_192
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2085
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.476929, y: 27.461548}
+        - {x: -21.523071, y: 27.461548}
+        - {x: -24.523071, y: 18.461548}
+        - {x: -24.523071, y: -26.538452}
+        - {x: 25.476929, y: -26.538452}
+        - {x: 25.476929, y: 13.461548}
+        - {x: 24.476929, y: 25.461548}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_193
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 2081
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.50769, y: 25.99231}
+        - {x: -34.50769, y: -11.00769}
+        - {x: -34.50769, y: -25.00769}
+        - {x: 35.49231, y: -25.00769}
+        - {x: 35.49231, y: 12.99231}
+        - {x: 32.49231, y: 25.99231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_194
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2071
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.976929, y: 30.069214}
+        - {x: -32.97693, y: -5.930786}
+        - {x: -32.97693, y: -28.930786}
+        - {x: 34.02307, y: -28.930786}
+        - {x: 34.02307, y: -3.9307861}
+        - {x: 22.023071, y: 30.069214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_195
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 2067
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.084595, y: -20.900024}
+        - {x: 37.084595, y: -14.900024}
+        - {x: 37.084595, y: 9.099976}
+        - {x: 20.084595, y: 30.099976}
+        - {x: -19.915405, y: 30.099976}
+        - {x: -22.915405, y: 29.099976}
+        - {x: -35.915405, y: -8.900024}
+        - {x: -35.915405, y: -28.900024}
+        - {x: -20.915405, y: -28.900024}
+        - {x: -15.915405, y: -26.900024}
+        - {x: -10.915405, y: -22.900024}
+        - {x: 28.084595, y: -21.900024}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_196
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 2071
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.553833, y: 29.069214}
+        - {x: 10.553833, y: 30.069214}
+        - {x: -24.446167, y: 30.069214}
+        - {x: -24.446167, y: -28.930786}
+        - {x: 21.553833, y: -28.930786}
+        - {x: 25.553833, y: -19.930786}
+        - {x: 25.553833, y: 13.069214}
+        - {x: 22.553833, y: 26.069214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_197
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2073
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.869263, y: 30.553833}
+        - {x: -26.130737, y: 30.553833}
+        - {x: -37.130737, y: -5.446167}
+        - {x: -37.130737, y: -29.446167}
+        - {x: 37.869263, y: -29.446167}
+        - {x: 37.869263, y: 11.553833}
+        - {x: 15.869263, y: 29.553833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_198
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2067
+        width: 138
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.884644, y: 31.599976}
+        - {x: -30.115356, y: 31.599976}
+        - {x: -34.115356, y: 15.599976}
+        - {x: -34.115356, y: -30.400024}
+        - {x: 34.884644, y: -30.400024}
+        - {x: 34.884644, y: 14.599976}
+        - {x: 12.884644, y: 30.599976}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_199
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 2075
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.084595, y: 27.538452}
+        - {x: -29.084595, y: -10.461548}
+        - {x: -13.084595, y: -26.461548}
+        - {x: 29.915405, y: -26.461548}
+        - {x: 29.915405, y: 20.538452}
+        - {x: 17.915405, y: 27.538452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_200
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 2118
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_201
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1884
+        width: 158
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.02308, y: 57.00769}
+        - {x: -39.02308, y: -55.99231}
+        - {x: 30.976921, y: -55.99231}
+        - {x: 39.97692, y: -33.99231}
+        - {x: 39.97692, y: 41.00769}
+        - {x: 33.97692, y: 57.00769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_202
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1884
+        width: 160
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.49231, y: 56.50769}
+        - {x: -39.49231, y: 16.50769}
+        - {x: -39.49231, y: -55.49231}
+        - {x: 37.50769, y: -55.49231}
+        - {x: 40.50769, y: -42.49231}
+        - {x: 40.50769, y: 54.50769}
+        - {x: 38.50769, y: 56.50769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_203
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1890
+        width: 164
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.384613, y: 55.961548}
+        - {x: -40.384613, y: 24.961548}
+        - {x: -40.384613, y: -55.038452}
+        - {x: 36.615387, y: -55.038452}
+        - {x: 41.615387, y: -37.038452}
+        - {x: 41.615387, y: 55.961548}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_204
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1886
+        width: 162
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.19232, y: -3.0076904}
+        - {x: 36.19232, y: -2.0076904}
+        - {x: 41.19232, y: 6.9923096}
+        - {x: 41.19232, y: 52.99231}
+        - {x: 35.19232, y: 55.99231}
+        - {x: -39.80768, y: 55.99231}
+        - {x: -39.80768, y: -55.00769}
+        - {x: 21.192322, y: -55.00769}
+        - {x: 37.19232, y: -51.00769}
+        - {x: 30.192322, y: -39.00769}
+        - {x: 37.19232, y: -17.00769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_205
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1888
+        width: 148
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.599976, y: 40.47693}
+        - {x: 25.599976, y: 56.47693}
+        - {x: -36.400024, y: 56.47693}
+        - {x: -36.400024, y: -48.52307}
+        - {x: -33.400024, y: -55.52307}
+        - {x: 15.599976, y: -55.52307}
+        - {x: 18.599976, y: -44.52307}
+        - {x: 35.599976, y: 5.4769287}
+        - {x: 37.599976, y: 15.476929}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_206
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1888
+        width: 148
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.35382, y: 41.47693}
+        - {x: -36.35382, y: -54.52307}
+        - {x: -31.35382, y: -55.52307}
+        - {x: 21.64618, y: -55.52307}
+        - {x: 37.64618, y: -26.523071}
+        - {x: 37.64618, y: 56.47693}
+        - {x: -16.35382, y: 56.47693}
+        - {x: -28.35382, y: 53.47693}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_207
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1933
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.753784, y: 26.630798}
+        - {x: -13.753784, y: 25.630798}
+        - {x: -34.753784, y: -12.369202}
+        - {x: -34.753784, y: -24.369202}
+        - {x: -33.753784, y: -25.369202}
+        - {x: 35.246216, y: -25.369202}
+        - {x: 35.246216, y: 26.630798}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_208
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1923
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.223022, y: 30.707703}
+        - {x: -33.223022, y: 7.7077026}
+        - {x: -33.223022, y: -29.292297}
+        - {x: 33.776978, y: -29.292297}
+        - {x: 33.776978, y: 11.707703}
+        - {x: 30.776978, y: 30.707703}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_209
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1923
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.82312, y: 29.707703}
+        - {x: -30.17688, y: 29.707703}
+        - {x: -30.17688, y: -27.292297}
+        - {x: -29.17688, y: -28.292297}
+        - {x: 11.82312, y: -28.292297}
+        - {x: 30.82312, y: -18.292297}
+        - {x: 30.82312, y: 10.707703}
+        - {x: 19.82312, y: 28.707703}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_210
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1927
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.084595, y: 30.17694}
+        - {x: -19.084595, y: 30.17694}
+        - {x: -28.084595, y: 12.176941}
+        - {x: -28.084595, y: -25.82306}
+        - {x: -19.084595, y: -28.82306}
+        - {x: 28.915405, y: -28.82306}
+        - {x: 28.915405, y: -4.823059}
+        - {x: 21.915405, y: 18.17694}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_211
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1925
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.646118, y: 29.692322}
+        - {x: 4.646118, y: 29.692322}
+        - {x: -27.353882, y: 21.692322}
+        - {x: -27.353882, y: -23.307678}
+        - {x: -17.353882, y: -28.307678}
+        - {x: 28.646118, y: -28.307678}
+        - {x: 28.646118, y: -3.3076782}
+        - {x: 21.646118, y: 20.692322}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_212
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1925
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.67688, y: 31.692322}
+        - {x: -30.32312, y: 13.692322}
+        - {x: -30.32312, y: -9.307678}
+        - {x: -19.32312, y: -30.307678}
+        - {x: 21.67688, y: -30.307678}
+        - {x: 31.67688, y: -10.307678}
+        - {x: 31.67688, y: 31.692322}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_213
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 1923
+        width: 91
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.569214, y: 18.707703}
+        - {x: 14.569214, y: 27.707703}
+        - {x: 6.569214, y: 27.707703}
+        - {x: -18.430786, y: 10.707703}
+        - {x: -20.430786, y: 8.707703}
+        - {x: -22.430786, y: -1.2922974}
+        - {x: -22.430786, y: -25.292297}
+        - {x: -21.430786, y: -26.292297}
+        - {x: 2.5692139, y: -26.292297}
+        - {x: 7.569214, y: -25.292297}
+        - {x: 23.569214, y: -18.292297}
+        - {x: 23.569214, y: 1.7077026}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_214
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1921
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.269287, y: 35.223083}
+        - {x: -21.269287, y: 33.223083}
+        - {x: -21.269287, y: 1.2230835}
+        - {x: -10.269287, y: -14.7769165}
+        - {x: 6.730713, y: -33.776917}
+        - {x: 17.730713, y: -33.776917}
+        - {x: 21.730713, y: -8.7769165}
+        - {x: 21.730713, y: 29.223083}
+        - {x: 20.730713, y: 35.223083}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_215
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1919
+        width: 85
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.8692627, y: 35.238464}
+        - {x: -20.869263, y: 33.238464}
+        - {x: -20.869263, y: -4.7615356}
+        - {x: -17.869263, y: -17.761536}
+        - {x: 5.1307373, y: -33.761536}
+        - {x: 19.130737, y: -33.761536}
+        - {x: 22.130737, y: -20.761536}
+        - {x: 22.130737, y: 34.238464}
+        - {x: 21.130737, y: 35.238464}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_216
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1628
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.223083, y: 56.47693}
+        - {x: -38.223083, y: -55.52307}
+        - {x: 23.776917, y: -55.52307}
+        - {x: 38.776917, y: -40.52307}
+        - {x: 38.776917, y: 56.47693}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_217
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1845
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_218
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1630
+        width: 166
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.099976, y: 5.961548}
+        - {x: 42.099976, y: 8.961548}
+        - {x: 42.099976, y: 49.961548}
+        - {x: 31.099976, y: 56.961548}
+        - {x: -36.900024, y: 56.961548}
+        - {x: -40.900024, y: 40.961548}
+        - {x: -40.900024, y: -56.038452}
+        - {x: -2.9000244, y: -56.038452}
+        - {x: 33.099976, y: -48.038452}
+        - {x: 35.099976, y: -34.038452}
+        - {x: 32.099976, y: -20.038452}
+        - {x: 24.099976, y: -19.038452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_219
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1626
+        width: 148
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.430786, y: 56.99231}
+        - {x: -28.430786, y: 53.99231}
+        - {x: -36.430786, y: 47.99231}
+        - {x: -36.430786, y: -33.00769}
+        - {x: -32.430786, y: -56.00769}
+        - {x: 12.569214, y: -56.00769}
+        - {x: 37.569214, y: -17.00769}
+        - {x: 37.569214, y: 56.99231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_220
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1634
+        width: 156
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.707703, y: -7.069214}
+        - {x: 13.707703, y: -11.069214}
+        - {x: 33.707703, y: 4.930786}
+        - {x: 39.707703, y: 20.930786}
+        - {x: 39.707703, y: 41.930786}
+        - {x: 26.707703, y: 55.930786}
+        - {x: -20.292297, y: 55.930786}
+        - {x: -38.292297, y: 51.930786}
+        - {x: -38.292297, y: -34.069214}
+        - {x: -33.292297, y: -55.069214}
+        - {x: 5.7077026, y: -55.069214}
+        - {x: 17.707703, y: -53.069214}
+        - {x: 31.707703, y: -7.069214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_221
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1628
+        width: 150
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.884644, y: 56.47693}
+        - {x: -37.115356, y: 56.47693}
+        - {x: -37.115356, y: -47.52307}
+        - {x: -36.115356, y: -55.52307}
+        - {x: 19.884644, y: -55.52307}
+        - {x: 27.884644, y: -45.52307}
+        - {x: 37.884644, y: -1.5230713}
+        - {x: 37.884644, y: 52.47693}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_222
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1616
+        width: 162
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.06923, y: -0.43078613}
+        - {x: 25.06923, y: -3.4307861}
+        - {x: 24.06923, y: -4.430786}
+        - {x: 34.06923, y: 2.5692139}
+        - {x: 41.06923, y: 0.56921387}
+        - {x: 41.06923, y: 56.569214}
+        - {x: -39.93077, y: 56.569214}
+        - {x: -39.93077, y: -55.430786}
+        - {x: 38.06923, y: -55.430786}
+        - {x: 41.06923, y: -51.430786}
+        - {x: 41.06923, y: -3.4307861}
+        - {x: 35.06923, y: -0.43078613}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_223
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1616
+        width: 158
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.00769, y: -3.4307861}
+        - {x: 30.00769, y: 1.5692139}
+        - {x: 38.00769, y: 4.569214}
+        - {x: 40.00769, y: 16.569214}
+        - {x: 40.00769, y: 42.569214}
+        - {x: 34.00769, y: 56.569214}
+        - {x: -38.99231, y: 56.569214}
+        - {x: -38.99231, y: -55.430786}
+        - {x: 36.00769, y: -55.430786}
+        - {x: 39.00769, y: -1.4307861}
+        - {x: 34.00769, y: -0.43078613}
+        - {x: 29.00769, y: -0.43078613}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_224
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1620
+        width: 148
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.67691, y: -5.461548}
+        - {x: 22.67691, y: -5.461548}
+        - {x: 17.67691, y: -9.461548}
+        - {x: 28.67691, y: 1.5384521}
+        - {x: 37.67691, y: 6.538452}
+        - {x: 37.67691, y: 49.538452}
+        - {x: 34.67691, y: 56.538452}
+        - {x: -36.32309, y: 56.538452}
+        - {x: -36.32309, y: -55.461548}
+        - {x: 16.67691, y: -55.461548}
+        - {x: 19.67691, y: -50.461548}
+        - {x: 29.67691, y: -23.461548}
+        - {x: 31.67691, y: -7.461548}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_225
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1620
+        width: 144
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.67691, y: 0.53845215}
+        - {x: 36.67691, y: -0.46154785}
+        - {x: 36.67691, y: 50.538452}
+        - {x: 34.67691, y: 56.538452}
+        - {x: -31.32309, y: 56.538452}
+        - {x: -35.32309, y: 49.538452}
+        - {x: -35.32309, y: -45.461548}
+        - {x: -33.32309, y: -55.461548}
+        - {x: 31.67691, y: -55.461548}
+        - {x: 36.67691, y: -52.461548}
+        - {x: 36.67691, y: -4.461548}
+        - {x: 22.67691, y: -4.461548}
+        - {x: 19.67691, y: -7.461548}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_226
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1789
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_227
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1791
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_228
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1786
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_229
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1780
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_230
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1786
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_231
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1766
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_232
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1774
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_233
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1774
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_234
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 1770
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_235
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1762
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.0076904, y: 17.446167}
+        - {x: -25.00769, y: 17.446167}
+        - {x: -25.00769, y: 2.446167}
+        - {x: -15.00769, y: -15.553833}
+        - {x: -7.0076904, y: -16.553833}
+        - {x: 25.99231, y: -16.553833}
+        - {x: 25.99231, y: -3.553833}
+        - {x: 24.99231, y: -1.553833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_236
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1768
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_237
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1782
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_238
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1780
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_239
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1782
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_240
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1711
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_241
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1679
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_242
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1675
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.207642, y: 21.615356}
+        - {x: -23.207642, y: 9.615356}
+        - {x: -21.207642, y: 4.6153564}
+        - {x: 9.792358, y: -20.384644}
+        - {x: 23.792358, y: -20.384644}
+        - {x: 23.792358, y: -9.384644}
+        - {x: 22.792358, y: -5.3846436}
+        - {x: -11.207642, y: 21.615356}
+      - - {x: 19.792358, y: 17.615356}
+        - {x: 18.792358, y: 12.615356}
+        - {x: 22.792358, y: 8.615356}
+        - {x: 23.792358, y: 8.615356}
+        - {x: 23.792358, y: 19.615356}
+        - {x: 21.792358, y: 19.615356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_243
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 1736
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_244
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1683
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_245
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1679
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_246
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1679
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_247
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 1689
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_248
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1687
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_249
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 1679
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_250
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1679
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_251
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1679
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_252
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1677
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_253
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1334
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.1, y: 56.738464}
+        - {x: -30.900002, y: 56.738464}
+        - {x: -37.9, y: 48.738464}
+        - {x: -37.9, y: -42.261536}
+        - {x: -32.9, y: -55.261536}
+        - {x: 21.099998, y: -55.261536}
+        - {x: 34.1, y: -26.261536}
+        - {x: 39.1, y: 21.738464}
+        - {x: 39.1, y: 38.738464}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_254
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1334
+        width: 148
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.738464, y: -2.2615356}
+        - {x: 22.738464, y: -2.2615356}
+        - {x: 18.738464, y: -6.2615356}
+        - {x: 25.738464, y: 1.7384644}
+        - {x: 30.738464, y: 3.7384644}
+        - {x: 33.738464, y: 6.7384644}
+        - {x: 37.738464, y: 15.738464}
+        - {x: 37.738464, y: 45.738464}
+        - {x: 26.738464, y: 56.738464}
+        - {x: -33.261536, y: 56.738464}
+        - {x: -36.261536, y: 48.738464}
+        - {x: -36.261536, y: -42.261536}
+        - {x: -35.261536, y: -48.261536}
+        - {x: -24.261536, y: -55.261536}
+        - {x: 15.738464, y: -55.261536}
+        - {x: 18.738464, y: -44.261536}
+        - {x: 30.738464, y: -18.261536}
+        - {x: 32.738464, y: -3.2615356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_255
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1338
+        width: 146
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.899994, y: 56.707703}
+        - {x: -21.100006, y: 56.707703}
+        - {x: -26.100006, y: 55.707703}
+        - {x: -36.100006, y: 38.707703}
+        - {x: -36.100006, y: -52.292297}
+        - {x: -27.100006, y: -55.292297}
+        - {x: 23.899994, y: -55.292297}
+        - {x: 36.899994, y: -7.2922974}
+        - {x: 36.899994, y: 47.707703}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_256
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1342
+        width: 251
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.17691, y: 59.17694}
+        - {x: -61.82309, y: 59.17694}
+        - {x: -61.82309, y: 16.17694}
+        - {x: -56.82309, y: 13.176941}
+        - {x: -22.82309, y: -57.82306}
+        - {x: 63.17691, y: -57.82306}
+        - {x: 63.17691, y: 36.17694}
+        - {x: 57.17691, y: 58.17694}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_257
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1342
+        width: 157
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.599976, y: 79.67694}
+        - {x: -38.599976, y: 67.67694}
+        - {x: -38.599976, y: -78.32306}
+        - {x: 33.400024, y: -78.32306}
+        - {x: 39.400024, y: -39.32306}
+        - {x: 39.400024, y: 34.67694}
+        - {x: 0.4000244, y: 79.67694}
+      - - {x: -27.599976, y: 33.67694}
+        - {x: -24.599976, y: 34.67694}
+        - {x: -24.599976, y: 37.67694}
+        - {x: -27.599976, y: 38.67694}
+        - {x: -29.599976, y: 36.67694}
+      - - {x: 11.400024, y: 79.67694}
+        - {x: 11.400024, y: 62.67694}
+        - {x: 21.400024, y: 62.67694}
+        - {x: 39.400024, y: 71.67694}
+        - {x: 39.400024, y: 79.67694}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_258
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1346
+        width: 296
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.1307983, y: 57.64618}
+        - {x: -10.869202, y: 49.64618}
+        - {x: -72.8692, y: -20.35382}
+        - {x: -72.8692, y: -56.35382}
+        - {x: 73.1308, y: -56.35382}
+        - {x: 74.1308, y: -46.35382}
+        - {x: 74.1308, y: 54.64618}
+        - {x: 72.1308, y: 57.64618}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_259
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1348
+        width: 296
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.1308, y: -53.3692}
+        - {x: 74.1308, y: 47.6308}
+        - {x: 70.1308, y: 57.6308}
+        - {x: -5.8692017, y: 57.6308}
+        - {x: -72.8692, y: -11.369202}
+        - {x: -72.8692, y: -56.3692}
+        - {x: -54.8692, y: -56.3692}
+        - {x: -49.8692, y: -51.3692}
+        - {x: -31.869202, y: -56.3692}
+        - {x: 57.1308, y: -56.3692}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_260
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1468
+        width: 217
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.67688, y: 34.207703}
+        - {x: -35.32312, y: 34.207703}
+        - {x: -53.32312, y: 19.207703}
+        - {x: -53.32312, y: -25.792297}
+        - {x: -13.32312, y: -32.792297}
+        - {x: 49.67688, y: -32.792297}
+        - {x: 54.67688, y: -29.792297}
+        - {x: 54.67688, y: -9.792297}
+        - {x: 50.67688, y: 21.207703}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_261
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1468
+        width: 262
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.67688, y: 32.707703}
+        - {x: 5.67688, y: 32.707703}
+        - {x: 2.67688, y: 31.707703}
+        - {x: -64.32312, y: -15.292297}
+        - {x: -64.32312, y: -31.292297}
+        - {x: 65.67688, y: -31.292297}
+        - {x: 65.67688, y: 14.707703}
+        - {x: 64.67688, y: 22.707703}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_262
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 1451
+        width: 232
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.146118, y: 36.33844}
+        - {x: -57.14612, y: -10.66156}
+        - {x: -57.14612, y: -29.66156}
+        - {x: -34.14612, y: -35.66156}
+        - {x: 57.85388, y: -35.66156}
+        - {x: 57.85388, y: -11.66156}
+        - {x: 51.85388, y: 26.33844}
+        - {x: 22.853882, y: 36.33844}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_263
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1457
+        width: 307
+        height: 145
+      alignment: 9
+      pivot: {x: 0.76528543, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.61792, y: 36.292297}
+        - {x: -114.61792, y: 10.292297}
+        - {x: -115.61792, y: 9.292297}
+        - {x: -115.61792, y: 3.2922974}
+        - {x: -105.61792, y: 4.2922974}
+        - {x: -52.61792, y: -35.707703}
+        - {x: 14.38208, y: -35.707703}
+        - {x: 36.38208, y: -30.707703}
+        - {x: 36.38208, y: 36.292297}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_264
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1459
+        width: 284
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.869263, y: 35.776917}
+        - {x: -69.86926, y: 10.7769165}
+        - {x: -69.86926, y: -34.223083}
+        - {x: -51.869263, y: -35.223083}
+        - {x: 71.13074, y: -35.223083}
+        - {x: 71.13074, y: 35.776917}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_265
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1074
+        width: 297
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.930786, y: -55.761536}
+        - {x: 73.930786, y: 55.238464}
+        - {x: 67.930786, y: 57.238464}
+        - {x: -20.069214, y: 57.238464}
+        - {x: -73.069214, y: 7.2384644}
+        - {x: -73.069214, y: -55.761536}
+        - {x: -55.069214, y: -55.761536}
+        - {x: -51.069214, y: -50.761536}
+        - {x: -5.069214, y: -54.761536}
+        - {x: -3.0692139, y: -55.761536}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_266
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1291
+        width: 241
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.3385, y: 37.569214}
+        - {x: -59.3385, y: 23.569214}
+        - {x: -59.3385, y: -33.430786}
+        - {x: -55.3385, y: -36.430786}
+        - {x: 42.6615, y: -36.430786}
+        - {x: 60.6615, y: -27.430786}
+        - {x: 60.6615, y: 18.569214}
+        - {x: 41.6615, y: 37.569214}
+      - - {x: 56.6615, y: 5.569214}
+        - {x: 58.6615, y: 3.5692139}
+        - {x: 60.6615, y: 4.569214}
+        - {x: 60.6615, y: 11.569214}
+        - {x: 57.6615, y: 10.569214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_267
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1299
+        width: 311
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.661499, y: 38.50769}
+        - {x: -62.6615, y: 23.50769}
+        - {x: -76.6615, y: 5.5076904}
+        - {x: -76.6615, y: -0.49230957}
+        - {x: -74.6615, y: -2.4923096}
+        - {x: -10.661499, y: -37.49231}
+        - {x: 77.3385, y: -37.49231}
+        - {x: 77.3385, y: 19.50769}
+        - {x: 69.3385, y: 38.50769}
+      - - {x: -51.6615, y: -31.49231}
+        - {x: -50.6615, y: -34.49231}
+        - {x: -46.6615, y: -34.49231}
+        - {x: -44.6615, y: -32.49231}
+        - {x: -44.6615, y: -30.49231}
+        - {x: -46.6615, y: -28.49231}
+      - - {x: -76.6615, y: -5.4923096}
+        - {x: -76.6615, y: -24.49231}
+        - {x: -73.6615, y: -23.49231}
+        - {x: -72.6615, y: -18.49231}
+        - {x: -72.6615, y: -8.49231}
+        - {x: -75.6615, y: -5.4923096}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_268
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 1289
+        width: 209
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.338501, y: 2.0845947}
+        - {x: 51.3385, y: -3.9154053}
+        - {x: 52.3385, y: -2.9154053}
+        - {x: 52.3385, y: 5.0845947}
+        - {x: 25.338501, y: 29.084595}
+        - {x: -23.661499, y: 39.084595}
+        - {x: -45.6615, y: 39.084595}
+        - {x: -51.6615, y: 32.084595}
+        - {x: -51.6615, y: 10.084595}
+        - {x: -42.6615, y: -37.915405}
+        - {x: -16.661499, y: -37.915405}
+        - {x: 22.338501, y: -30.915405}
+        - {x: 28.338501, y: -20.915405}
+        - {x: 30.338501, y: -2.9154053}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_269
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1224
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.80774, y: 53.084595}
+        - {x: -49.80774, y: -15.915405}
+        - {x: -49.80774, y: -51.915405}
+        - {x: -29.80774, y: -51.915405}
+        - {x: 46.19226, y: -33.915405}
+        - {x: 51.19226, y: -17.915405}
+        - {x: 51.19226, y: 32.084595}
+        - {x: 17.19226, y: 53.084595}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_270
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1263
+        width: 203
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.961548, y: -37.215393}
+        - {x: 47.961548, y: -37.215393}
+        - {x: 47.961548, y: -34.215393}
+        - {x: 44.961548, y: -33.215393}
+        - {x: 42.961548, y: -35.215393}
+      - - {x: 24.961548, y: 38.784607}
+        - {x: -6.038452, y: 38.784607}
+        - {x: -10.038452, y: 37.784607}
+        - {x: -50.038452, y: 5.784607}
+        - {x: -50.038452, y: -22.215393}
+        - {x: -28.038452, y: -25.215393}
+        - {x: 14.961548, y: -25.215393}
+        - {x: 47.961548, y: 13.784607}
+        - {x: 50.961548, y: 17.784607}
+        - {x: 50.961548, y: 27.784607}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_271
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1035
+        width: 250
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.615383, y: 13.038452}
+        - {x: 62.615383, y: 43.038452}
+        - {x: 53.615383, y: 59.038452}
+        - {x: -61.384617, y: 59.038452}
+        - {x: -61.384617, y: -19.961548}
+        - {x: -43.384617, y: -57.961548}
+        - {x: 45.615383, y: -57.961548}
+        - {x: 62.615383, y: -52.961548}
+        - {x: 62.615383, y: -43.961548}
+        - {x: 54.615383, y: -22.961548}
+        - {x: 46.615383, y: -24.961548}
+        - {x: 58.615383, y: -0.96154785}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_272
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1049
+        width: 297
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.91539, y: 56.930786}
+        - {x: -3.08461, y: 56.930786}
+        - {x: -24.08461, y: 38.930786}
+        - {x: -73.08461, y: -14.069214}
+        - {x: -73.08461, y: -54.069214}
+        - {x: -69.08461, y: -56.069214}
+        - {x: 73.91539, y: -56.069214}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_273
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1063
+        width: 298
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.72308, y: -54.17694}
+        - {x: 74.72308, y: 56.82306}
+        - {x: 9.7230835, y: 56.82306}
+        - {x: -73.27692, y: 14.823059}
+        - {x: -73.27692, y: -53.17694}
+        - {x: -72.27692, y: -54.17694}
+        - {x: -68.27692, y: -56.17694}
+        - {x: -51.276917, y: -56.17694}
+        - {x: -50.276917, y: -55.17694}
+        - {x: -43.276917, y: -56.17694}
+        - {x: 72.72308, y: -56.17694}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_274
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1053
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.69232, y: 59.400024}
+        - {x: -61.69232, y: 21.400024}
+        - {x: -58.69232, y: 20.400024}
+        - {x: -46.69232, y: 19.400024}
+        - {x: -44.69232, y: 22.400024}
+        - {x: -43.69232, y: 25.400024}
+        - {x: -23.692322, y: -58.599976}
+        - {x: 43.30768, y: -58.599976}
+        - {x: 52.30768, y: -57.599976}
+        - {x: 62.30768, y: -30.599976}
+        - {x: 62.30768, y: 51.400024}
+        - {x: 46.30768, y: 59.400024}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_275
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1049
+        width: 250
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.615356, y: 61.930786}
+        - {x: -61.615356, y: 32.930786}
+        - {x: -60.615356, y: 26.930786}
+        - {x: -57.615356, y: 16.930786}
+        - {x: -12.615356, y: -59.069214}
+        - {x: -7.6153564, y: -61.069214}
+        - {x: 30.384644, y: -61.069214}
+        - {x: 62.384644, y: -57.069214}
+        - {x: 62.384644, y: 60.930786}
+        - {x: 61.384644, y: 61.930786}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_276
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1098
+        width: 284
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.17688, y: 36.053833}
+        - {x: -34.82312, y: 36.053833}
+        - {x: -58.82312, y: 30.053833}
+        - {x: -69.82312, y: 9.053833}
+        - {x: -69.82312, y: -6.946167}
+        - {x: 21.17688, y: -34.946167}
+        - {x: 59.17688, y: -34.946167}
+        - {x: 71.17688, y: -22.946167}
+        - {x: 71.17688, y: 13.053833}
+        - {x: 64.17688, y: 24.053833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_277
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1090
+        width: 284
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.1615, y: 34.615356}
+        - {x: -0.838501, y: 34.615356}
+        - {x: -69.8385, y: 11.615356}
+        - {x: -69.8385, y: 1.6153564}
+        - {x: -40.8385, y: -12.384644}
+        - {x: -20.838501, y: -12.384644}
+        - {x: 15.161499, y: -33.384644}
+        - {x: 71.1615, y: -33.384644}
+        - {x: 71.1615, y: -10.384644}
+        - {x: 67.1615, y: 20.615356}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_278
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1092
+        width: 307
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.35388, y: 36.599976}
+        - {x: -29.646118, y: 36.599976}
+        - {x: -75.64612, y: 17.599976}
+        - {x: -75.64612, y: 3.5999756}
+        - {x: -55.64612, y: -32.400024}
+        - {x: -44.64612, y: -35.400024}
+        - {x: 76.35388, y: -35.400024}
+        - {x: 76.35388, y: 23.599976}
+        - {x: 71.35388, y: 35.599976}
+      - - {x: 61.35388, y: 30.599976}
+        - {x: 62.35388, y: 28.599976}
+        - {x: 64.35388, y: 28.599976}
+        - {x: 69.35388, y: 31.599976}
+        - {x: 70.35388, y: 36.599976}
+        - {x: 63.35388, y: 36.599976}
+        - {x: 62.35388, y: 35.599976}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_279
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1007
+        width: 235
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.8385, y: 51.753845}
+        - {x: -57.8385, y: 33.753845}
+        - {x: -57.8385, y: -50.246155}
+        - {x: 5.161499, y: -50.246155}
+        - {x: 59.1615, y: -3.2461548}
+        - {x: 59.1615, y: 42.753845}
+        - {x: 54.1615, y: 51.753845}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_280
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 938
+        width: 236
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2384033, y: 67.28461}
+        - {x: -32.238403, y: 60.284607}
+        - {x: -58.238403, y: -47.715393}
+        - {x: -58.238403, y: -65.71539}
+        - {x: -54.238403, y: -65.71539}
+        - {x: 58.761597, y: 13.284607}
+        - {x: 58.761597, y: 52.284607}
+        - {x: 49.761597, y: 67.28461}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_281
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 773
+        width: 252
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.93077, y: 58.553833}
+        - {x: -61.93077, y: 23.553833}
+        - {x: -56.93077, y: 11.553833}
+        - {x: -18.93077, y: -57.446167}
+        - {x: 63.06923, y: -57.446167}
+        - {x: 63.06923, y: 58.553833}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_282
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 767
+        width: 252
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.161545, y: -25.399994}
+        - {x: 43.161545, y: -26.399994}
+        - {x: 63.161545, y: -4.399994}
+        - {x: 63.161545, y: 39.600006}
+        - {x: 52.161545, y: 52.600006}
+        - {x: 46.161545, y: 57.600006}
+        - {x: 37.161545, y: 58.600006}
+        - {x: -61.838455, y: 58.600006}
+        - {x: -61.838455, y: 14.600006}
+        - {x: -25.838455, y: -57.399994}
+        - {x: 48.161545, y: -57.399994}
+        - {x: 57.161545, y: -44.399994}
+        - {x: 55.161545, y: -28.399994}
+        - {x: 52.161545, y: -25.399994}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_283
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 763
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.738464, y: 62.630768}
+        - {x: -61.738464, y: 56.630768}
+        - {x: -61.738464, y: 32.630768}
+        - {x: -59.738464, y: 22.630768}
+        - {x: -48.738464, y: -3.3692322}
+        - {x: -10.738464, y: -61.369232}
+        - {x: 56.261536, y: -61.369232}
+        - {x: 62.261536, y: -57.369232}
+        - {x: 62.261536, y: 51.630768}
+        - {x: 58.261536, y: 62.630768}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_284
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 763
+        width: 250
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.32306, y: 58.630768}
+        - {x: -61.67694, y: 58.630768}
+        - {x: -61.67694, y: 18.630768}
+        - {x: -56.67694, y: 12.630768}
+        - {x: -22.67694, y: -57.369232}
+        - {x: 55.32306, y: -57.369232}
+        - {x: 61.32306, y: -56.369232}
+        - {x: 62.32306, y: -38.369232}
+        - {x: 62.32306, y: 46.630768}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_285
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 749
+        width: 248
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.1308, y: 60.738464}
+        - {x: -61.1308, y: 26.738464}
+        - {x: -54.1308, y: 20.738464}
+        - {x: -47.1308, y: 20.738464}
+        - {x: -9.130798, y: -59.261536}
+        - {x: 41.8692, y: -59.261536}
+        - {x: 49.8692, y: -54.261536}
+        - {x: 61.8692, y: -7.2615356}
+        - {x: 61.8692, y: 60.738464}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_286
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 747
+        width: 248
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.946167, y: 60.753845}
+        - {x: -60.946167, y: 49.753845}
+        - {x: -60.946167, y: -53.246155}
+        - {x: -44.946167, y: -59.246155}
+        - {x: 62.053833, y: -59.246155}
+        - {x: 62.053833, y: 42.753845}
+        - {x: 53.053833, y: 60.753845}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_287
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 929
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_288
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 789
+        width: 375
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.723022, y: 31.930756}
+        - {x: -76.27698, y: -0.069244385}
+        - {x: -92.27698, y: -16.069244}
+        - {x: -92.27698, y: -31.069244}
+        - {x: 81.72302, y: -31.069244}
+        - {x: 93.72302, y: -18.069244}
+        - {x: 93.72302, y: 29.930756}
+        - {x: 85.72302, y: 31.930756}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_289
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 785
+        width: 377
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.14612, y: 31.961548}
+        - {x: -92.85388, y: -2.0384521}
+        - {x: -92.85388, y: -12.038452}
+        - {x: -72.85388, y: -31.038452}
+        - {x: 92.14612, y: -31.038452}
+        - {x: 94.14612, y: -24.038452}
+        - {x: 94.14612, y: 16.961548}
+        - {x: 78.14612, y: 31.961548}
+      - - {x: 86.14612, y: -25.038452}
+        - {x: 87.14612, y: -28.038452}
+        - {x: 93.14612, y: -28.038452}
+        - {x: 94.14612, y: -27.038452}
+        - {x: 94.14612, y: -21.038452}
+        - {x: 92.14612, y: -21.038452}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_290
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 787
+        width: 392
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.3385, y: 31.946167}
+        - {x: 42.3385, y: 31.946167}
+        - {x: -36.6615, y: 10.946167}
+        - {x: -96.6615, y: -17.053833}
+        - {x: -96.6615, y: -30.053833}
+        - {x: -22.661499, y: -31.053833}
+        - {x: 90.3385, y: -31.053833}
+        - {x: 97.3385, y: -28.053833}
+        - {x: 97.3385, y: 26.946167}
+      - - {x: -95.6615, y: 13.946167}
+        - {x: -96.6615, y: 13.946167}
+        - {x: -96.6615, y: -19.053833}
+        - {x: -93.6615, y: -19.053833}
+        - {x: -88.6615, y: -11.053833}
+        - {x: -88.6615, y: 5.946167}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_291
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 777
+        width: 299
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.6615, y: -11.976929}
+        - {x: -72.6615, y: -15.976929}
+        - {x: -42.6615, y: -32.97693}
+        - {x: 74.3385, y: -32.97693}
+        - {x: 74.3385, y: -13.976929}
+        - {x: 27.338501, y: 34.02307}
+        - {x: -57.6615, y: 34.02307}
+        - {x: -73.6615, y: 13.023071}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_292
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 456
+        width: 250
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.661537, y: 58.49231}
+        - {x: -61.661537, y: -25.50769}
+        - {x: -47.661537, y: -57.50769}
+        - {x: 43.338463, y: -57.50769}
+        - {x: 49.338463, y: -55.50769}
+        - {x: 62.338463, y: -41.50769}
+        - {x: 62.338463, y: 58.49231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_293
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 456
+        width: 254
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.384613, y: 58.49231}
+        - {x: -62.384613, y: -37.50769}
+        - {x: -53.384613, y: -57.50769}
+        - {x: 43.615387, y: -57.50769}
+        - {x: 49.615387, y: -55.50769}
+        - {x: 63.615387, y: -48.50769}
+        - {x: 63.615387, y: 58.49231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_294
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 460
+        width: 250
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.67691, y: 61.961533}
+        - {x: -61.67691, y: -3.0384674}
+        - {x: -9.67691, y: -61.038467}
+        - {x: 41.32309, y: -61.038467}
+        - {x: 62.32309, y: -44.038467}
+        - {x: 62.32309, y: 61.961533}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_295
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 474
+        width: 286
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2769165, y: 57.85385}
+        - {x: -70.27692, y: 35.85385}
+        - {x: -70.27692, y: -4.1461487}
+        - {x: -55.276917, y: -5.1461487}
+        - {x: -53.276917, y: -2.1461487}
+        - {x: -52.276917, y: 0.8538513}
+        - {x: -12.2769165, y: -57.14615}
+        - {x: 32.723083, y: -57.14615}
+        - {x: 62.723083, y: -52.14615}
+        - {x: 71.72308, y: -46.14615}
+        - {x: 71.72308, y: 53.85385}
+        - {x: 67.72308, y: 57.85385}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_296
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 472
+        width: 289
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.946167, y: 57.869232}
+        - {x: 1.946167, y: 56.869232}
+        - {x: -69.05383, y: 49.869232}
+        - {x: -71.05383, y: 39.869232}
+        - {x: -71.05383, y: -0.13076782}
+        - {x: -68.05383, y: -7.130768}
+        - {x: 12.946167, y: -57.130768}
+        - {x: 71.94617, y: -57.130768}
+        - {x: 71.94617, y: 40.869232}
+        - {x: 59.946167, y: 57.869232}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_297
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 484
+        width: 225
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.66156, y: 41.276917}
+        - {x: 11.66156, y: 48.276917}
+        - {x: -55.33844, y: 48.276917}
+        - {x: -55.33844, y: -1.7230835}
+        - {x: -8.33844, y: -47.723083}
+        - {x: 42.66156, y: -47.723083}
+        - {x: 49.66156, y: -45.723083}
+        - {x: 56.66156, y: -30.723083}
+        - {x: 56.66156, y: 6.2769165}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_298
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 521
+        width: 364
+        height: 223
+      alignment: 9
+      pivot: {x: 0.77967983, y: 0.5365215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.810913, y: 51.98282}
+        - {x: -134.81091, y: 21.982819}
+        - {x: -139.81091, y: 5.9828186}
+        - {x: -139.81091, y: -5.0171814}
+        - {x: -137.81091, y: -6.0171814}
+        - {x: -134.81091, y: -5.0171814}
+        - {x: -91.81091, y: -13.017181}
+        - {x: -46.810913, y: -59.01718}
+        - {x: 23.189087, y: -59.01718}
+        - {x: 40.189087, y: -47.01718}
+        - {x: 40.189087, y: 34.98282}
+        - {x: 31.189087, y: 51.98282}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_299
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 531
+        width: 377
+        height: 215
+      alignment: 9
+      pivot: {x: 0.7916386, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.966553, y: 53.915344}
+        - {x: -146.96655, y: 19.915344}
+        - {x: -146.96655, y: 13.915344}
+        - {x: -145.96655, y: 11.915344}
+        - {x: -135.96655, y: 5.915344}
+        - {x: -122.96655, y: -1.0846558}
+        - {x: -101.96655, y: -24.084656}
+        - {x: -32.966553, y: -53.084656}
+        - {x: 40.033447, y: -53.084656}
+        - {x: 40.033447, y: 41.915344}
+        - {x: 31.033447, y: 53.915344}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_300
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 515
+        width: 392
+        height: 227
+      alignment: 9
+      pivot: {x: 0.8012552, y: 0.5538177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.56836, y: 51.024155}
+        - {x: -126.56836, y: 14.024155}
+        - {x: -154.56836, y: -5.9758453}
+        - {x: -154.56836, y: -11.975845}
+        - {x: -59.56836, y: -61.975845}
+        - {x: 39.43164, y: -61.975845}
+        - {x: 39.43164, y: 51.024155}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_301
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 482
+        width: 236
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.869263, y: 16.292313}
+        - {x: 58.869263, y: 57.292313}
+        - {x: 55.869263, y: 66.29231}
+        - {x: -35.130737, y: 66.29231}
+        - {x: -40.130737, y: 65.29231}
+        - {x: -58.130737, y: -11.707687}
+        - {x: -58.130737, y: -65.70769}
+        - {x: -49.130737, y: -65.70769}
+        - {x: 32.869263, y: -46.707687}
+        - {x: 43.869263, y: -24.707687}
+        - {x: 43.869263, y: -7.7076874}
+      - - {x: -7.1307373, y: -60.707687}
+        - {x: -5.1307373, y: -65.70769}
+        - {x: 2.8692627, y: -65.70769}
+        - {x: 2.8692627, y: -63.707687}
+        - {x: -0.1307373, y: -58.707687}
+        - {x: -5.1307373, y: -57.707687}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_302
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 74
+        width: 163
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.207642, y: 103.93077}
+        - {x: -30.207642, y: 59.93077}
+        - {x: -40.20764, y: 28.93077}
+        - {x: -40.20764, y: -52.06923}
+        - {x: -3.2076416, y: -103.06923}
+        - {x: 14.792358, y: -103.06923}
+        - {x: 16.792358, y: -102.06923}
+        - {x: 40.79236, y: -37.06923}
+        - {x: 40.79236, y: 13.930771}
+        - {x: 1.7923584, y: 103.93077}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_303
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_304
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 82
+        width: 161
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.738403, y: 102.36923}
+        - {x: -39.738403, y: 78.36923}
+        - {x: -39.738403, y: -71.63077}
+        - {x: -1.7384033, y: -101.63077}
+        - {x: 17.261597, y: -101.63077}
+        - {x: 40.261597, y: -38.630768}
+        - {x: 40.261597, y: 29.369232}
+        - {x: -7.7384033, y: 102.36923}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_305
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 194
+        width: 148
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.369232, y: 56.50769}
+        - {x: -36.369232, y: 49.50769}
+        - {x: -36.369232, y: -53.49231}
+        - {x: -34.369232, y: -55.49231}
+        - {x: 18.630768, y: -55.49231}
+        - {x: 27.630768, y: -52.49231}
+        - {x: 37.630768, y: -27.49231}
+        - {x: 37.630768, y: 53.50769}
+        - {x: 30.630768, y: 56.50769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_306
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 176
+        width: 148
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.307693, y: 56.646156}
+        - {x: -31.307693, y: 55.646156}
+        - {x: -36.307693, y: 48.646156}
+        - {x: -36.307693, y: -32.353844}
+        - {x: -33.307693, y: -55.353844}
+        - {x: 34.692307, y: -55.353844}
+        - {x: 37.692307, y: -45.353844}
+        - {x: 37.692307, y: 54.646156}
+        - {x: 34.692307, y: 56.646156}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_307
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 176
+        width: 169
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.49231, y: 57.146156}
+        - {x: -41.49231, y: 29.146156}
+        - {x: -41.49231, y: -55.853844}
+        - {x: -4.4923096, y: -55.853844}
+        - {x: 34.50769, y: -47.853844}
+        - {x: 42.50769, y: -9.853844}
+        - {x: 42.50769, y: 48.146156}
+        - {x: 35.50769, y: 57.146156}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_308
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 192
+        width: 150
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.97693, y: 57.02308}
+        - {x: -32.02307, y: 57.02308}
+        - {x: -37.02307, y: 48.02308}
+        - {x: -37.02307, y: -5.976921}
+        - {x: -35.02307, y: -19.976921}
+        - {x: -30.023071, y: -44.97692}
+        - {x: -27.023071, y: -55.97692}
+        - {x: 29.976929, y: -55.97692}
+        - {x: 37.97693, y: -24.976921}
+        - {x: 37.97693, y: 51.02308}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_309
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 186
+        width: 169
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.707703, y: 56.06923}
+        - {x: -41.707703, y: 52.06923}
+        - {x: -41.707703, y: -32.93077}
+        - {x: -34.707703, y: -49.93077}
+        - {x: -29.707703, y: -54.93077}
+        - {x: 42.292297, y: -54.93077}
+        - {x: 42.292297, y: 15.069229}
+        - {x: 34.292297, y: 56.06923}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_310
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 194
+        width: 170
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.16156, y: 56.50769}
+        - {x: -40.83844, y: 56.50769}
+        - {x: -41.83844, y: 50.50769}
+        - {x: -41.83844, y: -55.49231}
+        - {x: 23.16156, y: -55.49231}
+        - {x: 39.16156, y: -51.49231}
+        - {x: 43.16156, y: -31.49231}
+        - {x: 43.16156, y: 51.50769}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_311
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 196
+        width: 183
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.915405, y: 51.99231}
+        - {x: -31.084595, y: 51.99231}
+        - {x: -45.084595, y: 12.99231}
+        - {x: -45.084595, y: -51.00769}
+        - {x: 40.915405, y: -51.00769}
+        - {x: 45.915405, y: -32.00769}
+        - {x: 45.915405, y: 46.99231}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_312
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 192
+        width: 182
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.792297, y: 52.52308}
+        - {x: -44.792297, y: 14.523079}
+        - {x: -44.792297, y: -51.47692}
+        - {x: 26.207703, y: -51.47692}
+        - {x: 46.207703, y: -2.476921}
+        - {x: 46.207703, y: 51.52308}
+        - {x: 45.207703, y: 52.52308}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_313
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 200
+        width: 199
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.82312, y: 57.46154}
+        - {x: -48.82312, y: 45.46154}
+        - {x: -48.82312, y: -25.53846}
+        - {x: -24.82312, y: -46.53846}
+        - {x: 1.1768799, y: -56.53846}
+        - {x: 41.17688, y: -56.53846}
+        - {x: 50.17688, y: -14.53846}
+        - {x: 50.17688, y: 57.46154}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_314
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 224
+        width: 250
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.70764, y: 52.776924}
+        - {x: -61.70764, y: 47.776924}
+        - {x: -61.70764, y: -11.223076}
+        - {x: -42.70764, y: -51.223076}
+        - {x: -24.707642, y: -52.223076}
+        - {x: 62.29236, y: -52.223076}
+        - {x: 62.29236, y: 0.77692413}
+        - {x: 39.29236, y: 52.776924}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_315
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 151
+        width: 165
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.538452, y: 72.33846}
+        - {x: -40.538452, y: 66.33846}
+        - {x: -40.538452, y: -49.661537}
+        - {x: -36.538452, y: -71.66154}
+        - {x: 4.461548, y: -71.66154}
+        - {x: 41.461548, y: -13.661537}
+        - {x: 41.461548, y: 72.33846}
+    - name: john_sprite_sheet_part_2_by_blahjerry-d5xmcib_316
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 153
+        width: 164
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.50769, y: 9.823074}
+        - {x: -25.50769, y: -13.176926}
+        - {x: 17.49231, y: -71.176926}
+        - {x: 35.49231, y: -71.176926}
+        - {x: 41.49231, y: -67.176926}
+        - {x: 41.49231, y: 61.823074}
+        - {x: 39.49231, y: 71.823074}
+        - {x: -36.50769, y: 71.823074}
+        - {x: -40.50769, y: 60.823074}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
