@@ -10,8 +10,8 @@ public class Object_SyncPosition : NetworkBehaviour {
 	[SyncVar]
 	public GameObject targetObject;
 
-	[SyncVar]
-	private Vector3 syncPos;
+	[SyncVar (hook = "LerpPosition")] private Vector3 syncPos;
+	[SyncVar (hook = "UpdateGravity")] public bool gravity;
 
 	//[SyncVar]
 	//public bool selected;
@@ -22,7 +22,8 @@ public class Object_SyncPosition : NetworkBehaviour {
 
 	private Vector3 lastPos;
 	private float threshold = 0.2f;
-	private bool working = false;
+	public bool working = false;
+	public bool gravity1 = true;
 
 	void Start() {
 		targetObject = GameObject.Find ("Chest");
@@ -31,8 +32,13 @@ public class Object_SyncPosition : NetworkBehaviour {
 	void Update () {
 		if(Input.GetKeyDown(KeyCode.Q))
 		{
-			working = true;
+			if (working == false) {
+				working = true;
+			} else {
+				working = false;
+			}
 		}
+		gravity = gravity1;
 	}
 
 	void FixedUpdate ()
@@ -42,21 +48,28 @@ public class Object_SyncPosition : NetworkBehaviour {
 		TransmitPosition();
 			//Debug.Log (targetObject.transform.position);
 			//Debug.Log (syncPos);
-		LerpPosition();
+		//LerpPosition();
 //		if (selected == false)
 //			targetObject.GetComponent<Rigidbody>().useGravity = true;
 //		if (selected)
 //			targetObject.GetComponent<Rigidbody>().useGravity = false;
 		//}
+		//Debug.Log(syncPos + gameObject.name);
 	}
 
-	void LerpPosition()
+	void LerpPosition(Vector3 pos)
 	{
-			if(!isLocalPlayer && working == false)
+		if(!isLocalPlayer && working == false && GameObject.Find("LocalPlayer").GetComponent<Object_SyncPosition>().working == false)
 		//{
 		//serverObject.transform.position = Vector3.Lerp(serverObject.transform.position, syncPos, Time.deltaTime * lerpRate);
 		//}
-		targetObject.transform.position = syncPos;
+		targetObject.transform.position = pos;
+	}
+
+	void UpdateGravity(bool gravity)
+	{
+		targetObject.GetComponent<Rigidbody> ().useGravity = gravity;
+		Debug.Log ("gravity updated to" + gravity);
 	}
 
 	[Command]
@@ -64,8 +77,9 @@ public class Object_SyncPosition : NetworkBehaviour {
 	{
 		syncPos = pos;
 		//serverObject = targetObject;
-		targetObject.GetComponent<chestScript> ().serverPosition = targetObject.GetComponent<Transform>().position;
-		targetObject.GetComponent<chestScript> ().updateSyncVar(targetObject.GetComponent<Transform>().position);
+		//targetObject.GetComponent<chestScript> ().serverPosition = targetObject.GetComponent<Transform>().position;
+		//targetObject.GetComponent<chestScript> ().updateSyncVar(targetObject.GetComponent<Transform>().position);
+
 		Debug.Log ("provided position to server");
 	}
 
@@ -75,7 +89,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 			if (Vector3.Distance(targetObject.transform.position, lastPos) > threshold && working)
 		{
 			CmdProvidePositionToServer(targetObject.transform.position);
-
+			//GameObject.Find("JohnEgbert(Clone)").GetComponent<Object_SyncPosition>().syncPos = targetObject.transform.position;
 			lastPos = targetObject.transform.position;
 
 		}

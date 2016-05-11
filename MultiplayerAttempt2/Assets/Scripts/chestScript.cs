@@ -12,7 +12,7 @@ public class chestScript : NetworkBehaviour {
     Rigidbody body;
     Transform transformpos;
 
-	[SyncVar (hook = "syncChestPosition")] public Vector3 serverPosition;
+	//[SyncVar (hook = "syncChestPosition")] public Vector3 serverPosition;
 
 	// Use this for initialization
 	void Start () {
@@ -52,7 +52,8 @@ public class chestScript : NetworkBehaviour {
         body.useGravity = false;
 		//GetComponent<Object_SyncPosition> ().selected = true;
         startPos = transformpos.position.y;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().targetObject = gameObject;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = true;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity1 = false;
 		Debug.Log ("sent the change");
 
         if (Input.GetMouseButtonDown(1))
@@ -72,17 +73,19 @@ public class chestScript : NetworkBehaviour {
     {
         body.useGravity = true;
         verticalOffset = 0;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = false;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity1 = true;
 		//GetComponent<Object_SyncPosition> ().selected = false;
     }
 
-	public void syncChestPosition(Vector3 pos){
-		serverPosition = pos;
-		transform.position = pos;
-		Debug.Log ("I got the position" + pos);
-	}
+	//public void syncChestPosition(Vector3 pos){
+		//serverPosition = pos;
+		//transform.position = pos;
+		//Debug.Log ("I got the position" + pos);
+	//}
 		
-	public void updateSyncVar(Vector3 posi){
-		serverPosition = posi;
-		Debug.Log ("posi JJJJJJJJJJ" + posi);
-	}
+	//public void updateSyncVar(Vector3 posi){
+		//serverPosition = posi;
+		//Debug.Log ("posi JJJJJJJJJJ" + posi);
+	//}
 }
