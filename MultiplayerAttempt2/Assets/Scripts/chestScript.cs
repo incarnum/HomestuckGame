@@ -50,11 +50,13 @@ public class chestScript : NetworkBehaviour {
     void OnMouseDown()
     {
         body.useGravity = false;
-		//GetComponent<Object_SyncPosition> ().selected = true;
         startPos = transformpos.position.y;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = false;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = true;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity1 = false;
-		Debug.Log ("sent the change");
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(false);
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = true;
+
+		//Debug.Log ("sent the change");
 
         if (Input.GetMouseButtonDown(1))
         {
@@ -73,8 +75,12 @@ public class chestScript : NetworkBehaviour {
     {
         body.useGravity = true;
         verticalOffset = 0;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = true;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = false;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity1 = true;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(true);
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = false;
+
+		//GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().test = 3f;
 		//GetComponent<Object_SyncPosition> ().selected = false;
     }
 

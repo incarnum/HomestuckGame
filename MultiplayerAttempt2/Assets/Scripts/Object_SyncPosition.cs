@@ -4,29 +4,27 @@ using UnityEngine.Networking;
 
 public class Object_SyncPosition : NetworkBehaviour {
 
-	//[SyncVar]
-	//public GameObject serverObject;
 
-	[SyncVar]
+	//[SyncVar]
 	public GameObject targetObject;
 
 	[SyncVar (hook = "LerpPosition")] private Vector3 syncPos;
-	[SyncVar (hook = "UpdateGravity")] public bool gravity;
+	[SyncVar (hook = "UpdateGravity")] public bool gravity = true;
 
-	//[SyncVar]
-	//public bool selected;
 
 	public Vector3 heading;
 
-	[SerializeField] float lerpRate = 1;
 
 	private Vector3 lastPos;
 	private float threshold = 0.2f;
 	public bool working = false;
-	public bool gravity1 = true;
+	//public bool gravity1 = true;
+	//public float test = 0f;
+	public bool selected = false;
 
 	void Start() {
 		targetObject = GameObject.Find ("Chest");
+		CmdProvideGravityToServer(true);
 	}
 
 	void Update () {
@@ -38,7 +36,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 				working = false;
 			}
 		}
-		gravity = gravity1;
+		//gravity = gravity1;
 	}
 
 	void FixedUpdate ()
@@ -46,6 +44,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 		//if (isLocalPlayer && targetObject){
 			//Debug.Log (targetObject);
 		TransmitPosition();
+		//CmdProvideGravityToServer();
 			//Debug.Log (targetObject.transform.position);
 			//Debug.Log (syncPos);
 		//LerpPosition();
@@ -64,6 +63,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 		//serverObject.transform.position = Vector3.Lerp(serverObject.transform.position, syncPos, Time.deltaTime * lerpRate);
 		//}
 		targetObject.transform.position = pos;
+		Debug.Log (gameObject.name + "moved the object");
 	}
 
 	void UpdateGravity(bool gravity)
@@ -75,15 +75,27 @@ public class Object_SyncPosition : NetworkBehaviour {
 	[Command]
 	void CmdProvidePositionToServer (Vector3 pos)
 	{
-		syncPos = pos;
-		//serverObject = targetObject;
-		//targetObject.GetComponent<chestScript> ().serverPosition = targetObject.GetComponent<Transform>().position;
-		//targetObject.GetComponent<chestScript> ().updateSyncVar(targetObject.GetComponent<Transform>().position);
+		
+			syncPos = pos;
+			//serverObject = targetObject;
+			//targetObject.GetComponent<chestScript> ().serverPosition = targetObject.GetComponent<Transform>().position;
+			//targetObject.GetComponent<chestScript> ().updateSyncVar(targetObject.GetComponent<Transform>().position);
 
-		Debug.Log ("provided position to server");
+			Debug.Log (gameObject.name + "provided position to server");
+
 	}
 
-	[ClientCallback]
+	//[ClientCallback]
+	[Command]
+	public void CmdProvideGravityToServer (bool grav)
+	{
+		//if (!isLocalPlayer && working == false && GameObject.Find("LocalPlayer").GetComponent<Object_SyncPosition>().working == false) {
+			gravity = grav;
+			Debug.Log ("provided gravity to server");
+		//}
+	}
+
+	//[ClientCallback]
 	void TransmitPosition()
 	{
 			if (Vector3.Distance(targetObject.transform.position, lastPos) > threshold && working)
