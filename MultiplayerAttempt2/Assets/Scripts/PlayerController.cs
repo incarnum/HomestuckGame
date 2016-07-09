@@ -36,6 +36,11 @@ public class PlayerController : NetworkBehaviour {
 //			}
 //			playerCheck = -2f;
 //		}
+
+		if(Input.GetKeyDown(KeyCode.M))
+		{
+			GameObject.Find("NetworkManager").GetComponent<MyManager>().ReplacePlayer(GetComponent<NetworkIdentity>());
+		}
     }
 	void FixedUpdate () {
 		if (!isLocalPlayer)

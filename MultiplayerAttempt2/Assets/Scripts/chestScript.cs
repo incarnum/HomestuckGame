@@ -51,10 +51,11 @@ public class chestScript : NetworkBehaviour {
     {
         body.useGravity = false;
         startPos = transformpos.position.y;
+		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideSelectedToServer(gameObject);
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = false;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = true;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(false);
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = true;
+		//GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = true;
 
 		//Debug.Log ("sent the change");
 
@@ -78,7 +79,7 @@ public class chestScript : NetworkBehaviour {
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = true;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = false;
 		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(true);
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = false;
+//		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = false;
 
 		//GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().test = 3f;
 		//GetComponent<Object_SyncPosition> ().selected = false;
