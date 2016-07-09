@@ -37,10 +37,7 @@ public class PlayerController : NetworkBehaviour {
 //			playerCheck = -2f;
 //		}
 
-		if(Input.GetKeyDown(KeyCode.M))
-		{
-			GameObject.Find("NetworkManager").GetComponent<MyManager>().ReplacePlayer(GetComponent<NetworkIdentity>());
-		}
+
     }
 	void FixedUpdate () {
 		if (!isLocalPlayer)
@@ -62,4 +59,16 @@ public class PlayerController : NetworkBehaviour {
         movement = movement.normalized * speed * Time.deltaTime;
         playerRigidbody.MovePosition(transform.position + movement);
     }
+
+	[Command]
+	public void CmdRespawn1()
+	{
+		GameObject.Find ("NetworkManager").GetComponent<MyManager> ().ServerRespawn (this,1);
+	}
+
+	[Command]
+	public void CmdRespawn2()
+	{
+		GameObject.Find ("NetworkManager").GetComponent<MyManager> ().ServerRespawn (this,2);
+	}
 }

@@ -22,8 +22,6 @@ public class JohnWalkingNew : NetworkBehaviour {
 			{
 				anim.SetTrigger ("Swing");
 			}
-
-
 		}
 	}
 
