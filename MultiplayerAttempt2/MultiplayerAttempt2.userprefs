@@ -1,15 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Buttonscript2.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="69" Column="11" />
-      <File FileName="Assets\MyManager.cs" Line="53" Column="4" />
-      <File FileName="Assets\Scripts\Object_SyncPosition.cs" Line="79" Column="8" />
-      <File FileName="Assets\Scripts\chestScript.cs" Line="37" Column="2" />
-      <File FileName="Assets\Scripts\MoveableObjectScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player_SyncPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="18" Column="3" />
+      <File FileName="Assets\MyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Object_SyncPosition.cs" Line="58" Column="56" />
+      <File FileName="Assets\Scripts\chestScript.cs" Line="54" Column="26" />
       <File FileName="Assets\buttonscript.cs" Line="1" Column="1" />
       <File FileName="Assets\Buttonscript2.cs" Line="5" Column="27" />
+      <File FileName="Assets\Cursor.cs" Line="18" Column="119" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -11,6 +11,7 @@ public class Object_SyncPosition : NetworkBehaviour {
 	[SyncVar (hook = "UpdateSelected")] public GameObject selected;
 	[SyncVar (hook = "LerpPosition")] private Vector3 syncPos;
 	[SyncVar (hook = "UpdateGravity")] public bool gravity = true;
+	[SyncVar (hook = "UpdateCursor")] private Vector3 cursorPos;
 
 
 
@@ -51,6 +52,12 @@ public class Object_SyncPosition : NetworkBehaviour {
 		targetObject = sel;
 	}
 
+	void UpdateCursor(Vector3 pos)
+	{
+		if (!isLocalPlayer)
+			GameObject.Find ("Cursor").transform.position = pos;
+	}
+
 	[Command]
 	void CmdProvidePositionToServer (Vector3 pos)
 	{
@@ -69,6 +76,12 @@ public class Object_SyncPosition : NetworkBehaviour {
 	public void CmdProvideSelectedToServer (GameObject sel)
 	{
 		selected = sel;
+	}
+
+	[Command]
+	public void CmdProvideCursorToServer (Vector3 pos)
+	{
+
 	}
 		
 	void TransmitPosition()
