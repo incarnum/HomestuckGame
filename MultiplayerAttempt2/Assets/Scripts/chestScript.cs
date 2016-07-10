@@ -49,36 +49,34 @@ public class chestScript : NetworkBehaviour {
 
     void OnMouseDown()
     {
-        body.useGravity = false;
-        startPos = transformpos.position.y;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideSelectedToServer(gameObject);
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = false;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = true;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(false);
-		//GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = true;
-
-		//Debug.Log ("sent the change");
-
-        if (Input.GetMouseButtonDown(1))
-        {
-            //verticalOffset = 0;
-        }
+		if (GameObject.Find ("GameMode").GetComponent<GameMode> ().currentGameMode == 1) {
+			body.useGravity = false;
+			startPos = transformpos.position.y;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideSelectedToServer (gameObject);
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = false;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = true;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer (false);
+		}
     }
 
     void OnMouseDrag()
     {
-        float distance_to_screen = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;
-        Vector3 pos_move = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y + 20, distance_to_screen + verticalOffset/2));
-        transform.position = new Vector3(pos_move.x, startPos + verticalOffset, pos_move.z);
+		if (GameObject.Find ("GameMode").GetComponent<GameMode> ().currentGameMode == 1) {
+			float distance_to_screen = Camera.main.WorldToScreenPoint (gameObject.transform.position).z;
+			Vector3 pos_move = Camera.main.ScreenToWorldPoint (new Vector3 (Input.mousePosition.x, Input.mousePosition.y + 20, distance_to_screen + verticalOffset / 2));
+			transform.position = new Vector3 (pos_move.x, startPos + verticalOffset, pos_move.z);
+		}
     }
 
     void OnMouseUp()
     {
-        body.useGravity = true;
-        verticalOffset = 0;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = true;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = false;
-		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer(true);
+		if (GameObject.Find ("GameMode").GetComponent<GameMode> ().currentGameMode == 1) {
+			body.useGravity = true;
+			verticalOffset = 0;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().gravity = true;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().working = false;
+			GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().CmdProvideGravityToServer (true);
+		}
 //		GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().selected = false;
 
 		//GameObject.Find ("LocalPlayer").GetComponent<Object_SyncPosition> ().test = 3f;

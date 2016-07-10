@@ -45,23 +45,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Buttonscript2.cs" />
-     <Compile Include="Assets\Cursor.cs" />
-     <Compile Include="Assets\MyManager.cs" />
      <Compile Include="Assets\Scripts\Attack1.cs" />
      <Compile Include="Assets\Scripts\AttackColliderScript.cs" />
+     <Compile Include="Assets\Scripts\Buttonscript2.cs" />
+     <Compile Include="Assets\Scripts\CursorScript.cs" />
+     <Compile Include="Assets\Scripts\GameMode.cs" />
      <Compile Include="Assets\Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\JohnWalkingNew.cs" />
      <Compile Include="Assets\Scripts\MoveableObjectScript.cs" />
+     <Compile Include="Assets\Scripts\MyManager.cs" />
      <Compile Include="Assets\Scripts\NetManagerCustom.cs" />
      <Compile Include="Assets\Scripts\Object_SyncPosition.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerControllerOffline.cs" />
      <Compile Include="Assets\Scripts\Player_SyncPosition.cs" />
+     <Compile Include="Assets\Scripts\buttonscript.cs" />
      <Compile Include="Assets\Scripts\chestScript.cs" />
      <Compile Include="Assets\Scripts\johnAnimate.cs" />
      <Compile Include="Assets\Scripts\moveCamera.cs" />
-     <Compile Include="Assets\buttonscript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Core/Program Files (x86)/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

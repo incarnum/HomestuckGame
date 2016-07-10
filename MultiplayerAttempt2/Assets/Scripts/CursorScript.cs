@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.Networking;
 
-public class Cursor : NetworkBehaviour {
+public class CursorScript : NetworkBehaviour {
 	Transform transformPos;
 	// Use this for initialization
 	void Start () {
