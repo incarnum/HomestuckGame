@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DeployButtonScript.cs" />
+     <Compile Include="Assets\PRButtonScript.cs" />
      <Compile Include="Assets\Scripts\Attack1.cs" />
      <Compile Include="Assets\Scripts\AttackColliderScript.cs" />
      <Compile Include="Assets\Scripts\Buttonscript2.cs" />
@@ -63,6 +65,7 @@
      <Compile Include="Assets\Scripts\chestScript.cs" />
      <Compile Include="Assets\Scripts\johnAnimate.cs" />
      <Compile Include="Assets\Scripts\moveCamera.cs" />
+     <Compile Include="Assets\SelectButton.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Core/Program Files (x86)/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

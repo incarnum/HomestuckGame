@@ -19,5 +19,6 @@ public class buttonscript : NetworkBehaviour {
 		GameObject.Find("LocalPlayer").GetComponent<PlayerController>().CmdRespawn1();
 		GameObject.Find ("CharacterSelectionUI").SetActive (false);
 		GameObject.Find ("GameMode").GetComponent<GameMode> ().currentGameMode = 2;
+		GameObject.Find ("PlayerDefaultUI").SetActive (true);
 	}
 }
